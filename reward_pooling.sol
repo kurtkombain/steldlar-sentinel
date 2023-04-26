@@ -2,3 +2,4 @@
 // Refactor oracle interaction logic
 // Enhance gas fee management
 // Implement delegation pattern
+// Refactor Ethereum gas price management
