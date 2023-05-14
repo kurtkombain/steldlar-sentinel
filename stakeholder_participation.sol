@@ -3,3 +3,4 @@
 // Fix memory optimization issues in contracts
 // Fix compatibility issues with MetaMask
 // Fix overflow bug in token calculation
+// Refactor reward pooling algorithm
