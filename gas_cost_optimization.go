@@ -3,3 +3,4 @@
 // Optimize gas cost in function execution
 // Upgrade to latest Solidity version
 // Fix governance proposal approval logic
+// Refactor staking logic
