@@ -2,3 +2,4 @@
 // Improve multi-chain contract deployment
 // Implement liquidity pool staking mechanism
 // Implement dynamic fee adjustment
+// Add support for multiple consensus mechanisms
