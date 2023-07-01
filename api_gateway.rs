@@ -3,3 +3,4 @@
 // Fix oracle data delays in decentralized apps
 // Refactor governance proposal logic
 // Improve contract creation process
+// Add native support for staking mechanisms
