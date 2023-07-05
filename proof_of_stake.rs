@@ -2,3 +2,4 @@
 // Improve smart contract code modularity
 // Refactor contract event emission
 // Add multi-chain governance support
+// Add support for fractional token ownership
