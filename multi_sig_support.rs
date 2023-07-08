@@ -2,3 +2,4 @@
 // Add automated contract testing tools
 // Fix ERC-721 contract issues with transfers
 // Optimize WASM compilation for Go contracts
+// Fix compatibility issues with major wallets
