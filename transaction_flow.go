@@ -1,2 +1,3 @@
 // Reduce gas cost in minting logic
 // Add native support for staking mechanisms
+// Add batch processing for transactions
