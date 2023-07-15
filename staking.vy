@@ -2,3 +2,4 @@
 // Implement delegation pattern
 // Optimize WASM compilation for Go contracts
 // Refactor token economics model
+// Fix errors in NFT minting logic
