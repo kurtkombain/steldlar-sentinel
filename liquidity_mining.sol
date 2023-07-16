@@ -5,3 +5,4 @@
 // Add support for fractional token ownership
 // Fix bugs in NFT metadata handling
 // Add support for ERC-721A tokens
+// Refactor contract event emission
