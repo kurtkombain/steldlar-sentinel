@@ -6,3 +6,4 @@
 // Fix bugs in NFT metadata handling
 // Add support for ERC-721A tokens
 // Refactor contract event emission
+// Bugfix: incorrect reward calculation
