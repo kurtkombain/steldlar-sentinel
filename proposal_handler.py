@@ -4,3 +4,4 @@
 // Improve smart contract code modularity
 // Improve gas estimation for transactions
 // Fix vulnerabilities in staking contracts
+// Fix ERC-721 contract issues with transfers
