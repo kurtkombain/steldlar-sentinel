@@ -3,3 +3,4 @@
 // Fix bug in random number generation
 // Integrate Chainlink VRF for randomness
 // Improve contract execution speed
+// Add fallback mechanism in Solidity contract
