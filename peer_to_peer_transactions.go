@@ -2,3 +2,4 @@
 // Improve contract auditing tools
 // Implement automatic transaction retries
 // Optimize proof-of-stake validation
+// Implement on-chain identity verification
