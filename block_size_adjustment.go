@@ -3,3 +3,4 @@
 // Fix issue in token vesting logic
 // Integrate zk-rollups for scaling
 // Implement time-locked contract execution
+// Integrate multi-chain liquidity pools
