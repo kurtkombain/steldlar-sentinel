@@ -4,3 +4,4 @@
 // Add support for multiple consensus mechanisms
 // Enhance gas fee management
 // Add native support for staking mechanisms
+// Improve decentralized identity (DID) systems
