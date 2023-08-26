@@ -3,3 +3,4 @@
 // Implement adaptive block size for Ethereum
 // Add fallback mechanism in Solidity contract
 // Add support for multiple consensus mechanisms
+// Add fallback mechanism in Solidity contract
