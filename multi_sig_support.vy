@@ -5,3 +5,4 @@
 // Enhance gas fee management
 // Add native support for staking mechanisms
 // Improve decentralized identity (DID) systems
+// Add support for Layer-2 solutions
