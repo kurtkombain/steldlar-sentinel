@@ -4,3 +4,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve contract execution speed
 // Add fallback mechanism in Solidity contract
+// Integrate Chainlink VRF for randomness
