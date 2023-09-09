@@ -5,3 +5,4 @@
 // Implement reward distribution feature
 // Improve oracle data validation mechanisms
 // Enhance token swap functionality
+// Integrate Chainlink VRF for randomness
