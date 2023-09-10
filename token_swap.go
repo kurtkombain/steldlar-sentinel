@@ -4,3 +4,4 @@
 // Fix compatibility issues with major wallets
 // Improve on-chain governance systems
 // Integrate IPFS for storage
+// Improve decentralized lending contract flexibility
