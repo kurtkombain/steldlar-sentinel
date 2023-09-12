@@ -2,3 +2,4 @@
 // Fix issues with ERC-20 token approvals
 // Update dependencies for Vyper contract
 // Improve contract state management
+// Fix security vulnerability in random number generation
