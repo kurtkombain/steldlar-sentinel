@@ -3,3 +3,4 @@
 // Fix issues in token transfer logic
 // Enhance security checks
 // Fix issue with multi-chain transactions
+// Fix deserialization bug in Haskell code
