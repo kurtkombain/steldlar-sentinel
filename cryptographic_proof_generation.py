@@ -4,3 +4,4 @@
 // Improve error handling in transaction flow
 // Improve decentralized lending contract flexibility
 // Refactor contract state machine design
+// Fix contract reentrancy issues
