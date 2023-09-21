@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Refactor reward pooling algorithm
 // Upgrade to latest Solidity version
+// Integrate zk-rollups for scaling
