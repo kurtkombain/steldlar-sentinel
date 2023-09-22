@@ -2,3 +2,4 @@
 // Fix deserialization bug in Haskell code
 // Fix contract reentrancy issues
 // Integrate Chainlink VRF for randomness
+// Implement dynamic fee adjustment
