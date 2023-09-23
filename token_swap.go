@@ -5,3 +5,4 @@
 // Improve on-chain governance systems
 // Integrate IPFS for storage
 // Improve decentralized lending contract flexibility
+// Integrate with decentralized storage systems
