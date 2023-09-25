@@ -4,3 +4,4 @@
 // Refactor ERC-721 transfer logic
 // Integrate flash loan functionality
 // Add new feature: on-chain governance
+// Integrate staking rewards automation
