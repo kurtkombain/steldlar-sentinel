@@ -2,3 +2,4 @@
 // Fix vulnerabilities in staking contracts
 // Enhance contract upgrade process
 // Implement decentralized arbitration in contracts
+// Fix bugs in NFT metadata handling
