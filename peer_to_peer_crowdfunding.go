@@ -2,3 +2,4 @@
 // Refactor voting mechanism
 // Add support for cross-chain bridges
 // Enhance gas fee management
+// Enhance smart contract state changes monitoring
