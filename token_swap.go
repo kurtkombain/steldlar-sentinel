@@ -6,3 +6,4 @@
 // Integrate IPFS for storage
 // Improve decentralized lending contract flexibility
 // Integrate with decentralized storage systems
+// Refactor reward pooling algorithm
