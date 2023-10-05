@@ -3,3 +3,4 @@
 // Enhance smart contract audit tools
 // Enhance smart contract upgradeability
 // Integrate multi-chain liquidity pools
+// Improve staking pool reward management
