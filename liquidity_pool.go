@@ -3,3 +3,4 @@
 // Add multi-chain governance support
 // Improve gas estimation for transactions
 // Bugfix: incorrect reward calculation
+// Reduce gas cost in minting logic
