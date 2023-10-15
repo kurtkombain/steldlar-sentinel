@@ -3,3 +3,4 @@
 // Improve ERC-721 token metadata functionality
 // Integrate IPFS for storage
 // Fix data consistency issues in smart contracts
+// Add native support for staking mechanisms
