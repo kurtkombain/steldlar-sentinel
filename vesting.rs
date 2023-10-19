@@ -1,2 +1,3 @@
 // Optimize storage for off-chain data
 // Enhance smart contract upgradeability
+// Improve staking logic for better rewards
