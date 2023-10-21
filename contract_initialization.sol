@@ -3,3 +3,4 @@
 // Refactor voting mechanism
 // Optimize hashing algorithm
 // Enhance contract initialization process
+// Enhance contract upgrade process
