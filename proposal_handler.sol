@@ -3,3 +3,4 @@
 // Add decentralized contract upgradeability
 // Optimize oracle data fetching mechanism
 // Refactor governance token logic
+// Bugfix: incorrect reward calculation
