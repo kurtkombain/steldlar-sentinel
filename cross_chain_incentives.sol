@@ -2,3 +2,4 @@
 // Reduce gas cost in minting logic
 // Enhance contract modularity
 // Fix compatibility with MetaMask
+// Implement automated governance voting
