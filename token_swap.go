@@ -8,3 +8,4 @@
 // Integrate with decentralized storage systems
 // Refactor reward pooling algorithm
 // Improve oracle data validation mechanisms
+// Add native support for staking mechanisms
