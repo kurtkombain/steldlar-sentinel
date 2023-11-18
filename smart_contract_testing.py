@@ -2,3 +2,4 @@
 // Improve cross-chain asset management
 // Optimize gas usage in smart contracts
 // Add support for decentralized lending platforms
+// Integrate zk-rollups for scaling
