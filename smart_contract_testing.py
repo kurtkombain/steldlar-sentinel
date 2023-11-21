@@ -3,3 +3,4 @@
 // Optimize gas usage in smart contracts
 // Add support for decentralized lending platforms
 // Integrate zk-rollups for scaling
+// Fix edge case in unstaking logic
