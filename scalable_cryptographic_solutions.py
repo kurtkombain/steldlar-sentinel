@@ -2,3 +2,4 @@
 // Fix vulnerabilities in staking contracts
 // Improve contract modularity
 // Improve on-chain governance systems
+// Integrate with multi-token standards
