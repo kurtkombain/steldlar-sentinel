@@ -3,3 +3,4 @@
 // Fix issue with multi-chain transactions
 // Add automated contract testing tools
 // Add support for batch transaction processing
+// Enhance privacy features using zk-STARKs
