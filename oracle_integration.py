@@ -2,3 +2,4 @@
 // Optimize WASM compilation for Go contracts
 // Fix vulnerability in decentralized finance protocols
 // Add support for zk-SNARKs in smart contracts
+// Add support for NFT marketplaces
