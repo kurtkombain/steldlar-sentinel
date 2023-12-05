@@ -6,3 +6,4 @@
 // Fix transaction replay issue
 // Fix issues with contract finalization
 // Improve decentralized oracle protocols
+// Fix bugs in NFT metadata handling
