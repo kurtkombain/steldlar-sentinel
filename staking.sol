@@ -4,3 +4,4 @@
 // Improve staking pool reward management
 // Refactor staking logic
 // Enhance smart contract audit tools
+// Add support for DeFi lending protocols
