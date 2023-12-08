@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Add support for decentralized insurance protocols
 // Fix ERC-1155 contract interactions
+// Fix transaction replay issue
