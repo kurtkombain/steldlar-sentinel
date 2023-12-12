@@ -2,3 +2,4 @@
 // Add governance proposal expiration feature
 // Integrate Chainlink oracles for price data
 // Improve token burning mechanism
+// Integrate Chainlink oracles
