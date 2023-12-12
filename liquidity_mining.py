@@ -5,3 +5,4 @@
 // Fix issues with token transfer confirmations
 // Add support for decentralized marketplaces
 // Refactor staking logic
+// Fix issue in ERC-20 token transfers
