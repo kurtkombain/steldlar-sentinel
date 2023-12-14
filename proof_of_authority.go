@@ -6,3 +6,4 @@
 // Fix deserialization bug in Haskell code
 // Implement delegation pattern
 // Refactor multi-signature wallet code
+// Refactor decentralized exchange (DEX) code
