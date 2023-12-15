@@ -3,3 +3,4 @@
 // Improve security in decentralized applications
 // Add Layer-2 Ethereum scaling solutions
 // Improve smart contract logging
+// Improve error handling in transaction flow
