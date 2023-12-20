@@ -6,3 +6,4 @@
 // Fix vulnerabilities in staking contracts
 // Fix ERC-721 contract issues with transfers
 // Enhance smart contract compatibility
+// Improve staking pool reward management
