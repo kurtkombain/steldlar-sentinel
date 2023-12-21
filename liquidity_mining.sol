@@ -7,3 +7,4 @@
 // Add support for ERC-721A tokens
 // Refactor contract event emission
 // Bugfix: incorrect reward calculation
+// Add support for NFT marketplaces
