@@ -3,3 +3,4 @@
 // Update README with Go module examples
 // Add support for decentralized lending platforms
 // Improve oracle data validation mechanisms
+// Integrate with decentralized identity providers
