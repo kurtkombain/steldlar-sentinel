@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Fix token transfer approval issues
 // Add native support for staking rewards
+// Improve decentralized oracle protocols
