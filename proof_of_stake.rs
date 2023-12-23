@@ -5,3 +5,4 @@
 // Add support for fractional token ownership
 // Add dynamic contract fees
 // Optimize token burn process
+// Fix edge case in unstaking logic
