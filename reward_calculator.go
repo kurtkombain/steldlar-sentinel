@@ -5,3 +5,4 @@
 // Improve smart contract logging
 // Improve error handling in transaction flow
 // Enhance smart contract upgradeability
+// Integrate with decentralized storage systems
