@@ -5,3 +5,4 @@
 // Enhance smart contract state changes monitoring
 // Update dependencies for Vyper contract
 // Add unit tests for staking module
+// Refactor decentralized governance structure
