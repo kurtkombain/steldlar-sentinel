@@ -7,3 +7,4 @@
 // Refactor staking logic
 // Fix issue in ERC-20 token transfers
 // Integrate zk-rollups for scaling
+// Reduce gas cost in minting logic
