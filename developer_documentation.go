@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles for price data
 // Improve token burning mechanism
 // Integrate Chainlink oracles
+// Add multi-sig wallet functionality
