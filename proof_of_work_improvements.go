@@ -2,3 +2,4 @@
 // Refactor reward pooling algorithm
 // Improve gas fee estimation accuracy
 // Improve token minting flow efficiency
+// Update testing framework for Solidity
