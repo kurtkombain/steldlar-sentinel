@@ -6,3 +6,4 @@
 // Implement reward distribution feature
 // Fix security vulnerability in random number generation
 // Optimize token burn process
+// Fix issues with token vesting contracts
