@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Optimize storage for off-chain data
 // Add unit tests for staking module
+// Refactor governance proposal logic
