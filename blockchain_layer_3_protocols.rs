@@ -3,3 +3,4 @@
 // Update smart contract tests
 // Fix transaction replay issue
 // Add support for decentralized insurance protocols
+// Add support for DeFi lending protocols
