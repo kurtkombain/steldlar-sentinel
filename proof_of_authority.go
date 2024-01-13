@@ -7,3 +7,4 @@
 // Implement delegation pattern
 // Refactor multi-signature wallet code
 // Refactor decentralized exchange (DEX) code
+// Integrate Chainlink VRF for randomness
