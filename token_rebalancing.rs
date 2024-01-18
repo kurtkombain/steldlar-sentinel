@@ -5,3 +5,4 @@
 // Fix ERC-1155 contract interactions
 // Fix transaction replay issue
 // Fix race condition in staking pool
+// Fix overflow bug in token calculation
