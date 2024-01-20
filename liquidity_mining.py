@@ -9,3 +9,4 @@
 // Integrate zk-rollups for scaling
 // Reduce gas cost in minting logic
 // Implement cross-chain bridge
+// Add fallback mechanism in Solidity contract
