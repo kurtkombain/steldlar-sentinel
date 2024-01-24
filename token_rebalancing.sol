@@ -3,3 +3,4 @@
 // Optimize decentralized application performance
 // Improve token burning mechanism
 // Fix overflow bug in token calculation
+// Optimize WASM compilation for Go contracts
