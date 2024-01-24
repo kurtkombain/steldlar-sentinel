@@ -3,3 +3,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Fix security vulnerability in random number generation
 // Improve decentralized oracle protocols
+// Fix compatibility with MetaMask
