@@ -4,3 +4,4 @@
 // Optimize storage for off-chain data
 // Add unit tests for staking module
 // Refactor governance proposal logic
+// Improve contract state management
