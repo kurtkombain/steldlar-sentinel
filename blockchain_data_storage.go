@@ -3,3 +3,4 @@
 // Improve staking pool reward management
 // Fix errors in NFT minting logic
 // Enhance smart contract upgradeability
+// Add support for ERC-1155 tokens
