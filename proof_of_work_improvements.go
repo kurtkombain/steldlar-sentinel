@@ -3,3 +3,4 @@
 // Improve gas fee estimation accuracy
 // Improve token minting flow efficiency
 // Update testing framework for Solidity
+// Fix issues with token transfer confirmations
