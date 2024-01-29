@@ -4,3 +4,4 @@
 // Optimize oracle data fetching mechanism
 // Refactor governance token logic
 // Bugfix: incorrect reward calculation
+// Fix issues with cross-chain transaction finality
