@@ -5,3 +5,4 @@
 // Fix token transfer approval issues
 // Add native support for staking rewards
 // Improve decentralized oracle protocols
+// Add fallback mechanism in Solidity contract
