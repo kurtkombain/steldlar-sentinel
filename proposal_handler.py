@@ -7,3 +7,4 @@
 // Fix ERC-721 contract issues with transfers
 // Enhance smart contract compatibility
 // Improve staking pool reward management
+// Integrate privacy-enhancing smart contracts
