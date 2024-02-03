@@ -7,3 +7,4 @@
 // Optimize token burn process
 // Fix edge case in unstaking logic
 // Integrate multi-chain liquidity pools
+// Improve contract interaction via APIs
