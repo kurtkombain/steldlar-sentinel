@@ -4,3 +4,4 @@
 // Implement time-locked contract execution
 // Reduce gas cost in minting logic
 // Fix compatibility issues with major wallets
+// Fix overflow bug in token calculation
