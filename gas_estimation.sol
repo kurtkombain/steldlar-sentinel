@@ -2,3 +2,4 @@
 // Refactor contract event emission
 // Optimize contract upgrade process
 // Refactor token economics model
+// Update smart contract tests
