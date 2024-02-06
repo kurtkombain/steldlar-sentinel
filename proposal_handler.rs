@@ -3,3 +3,4 @@
 // Integrate zk-rollups for scaling
 // Enhance privacy features using zk-STARKs
 // Fix ERC-1155 contract interactions
+// Integrate staking rewards automation
