@@ -6,3 +6,4 @@
 // Add fallback mechanism in Solidity contract
 // Integrate Chainlink VRF for randomness
 // Update dependencies for Vyper contract
+// Improve error handling in transaction flow
