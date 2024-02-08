@@ -2,3 +2,4 @@
 // Integrate IPFS for storage
 // Enhance smart contract upgradeability
 // Improve decentralized identity (DID) systems
+// Add automated smart contract testing
