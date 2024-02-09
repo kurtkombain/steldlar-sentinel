@@ -6,3 +6,4 @@
 // Fix compatibility with MetaMask
 // Implement automated governance voting
 // Enhance contract initialization process
+// Implement cross-platform contract compatibility
