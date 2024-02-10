@@ -5,3 +5,4 @@
 // Fix compatibility issues with major wallets
 // Refactor contract state machine design
 // Add support for multiple consensus mechanisms
+// Implement liquidity pool staking mechanism
