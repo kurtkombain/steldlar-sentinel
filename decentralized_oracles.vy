@@ -6,3 +6,4 @@
 // Improve contract state management
 // Integrate Chainlink oracles
 // Fix contract reentrancy issues
+// Integrate with external DeFi protocols
