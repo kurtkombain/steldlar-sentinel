@@ -4,3 +4,4 @@
 // Implement automated governance voting
 // Improve decentralized oracle protocols
 // Add non-fungible token (NFT) support
+// Enhance privacy features using zk-STARKs
