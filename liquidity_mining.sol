@@ -8,3 +8,4 @@
 // Refactor contract event emission
 // Bugfix: incorrect reward calculation
 // Add support for NFT marketplaces
+// Improve contract state management
