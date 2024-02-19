@@ -4,3 +4,4 @@
 // Fix compatibility issues with major wallets
 // Fix vulnerability in decentralized finance protocols
 // Fix issue with multi-chain transactions
+// Refactor governance token logic
