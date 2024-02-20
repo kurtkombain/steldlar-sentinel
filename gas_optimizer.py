@@ -3,3 +3,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Optimize gas cost in function execution
 // Optimize storage for off-chain data
+// Optimize decentralized voting mechanisms
