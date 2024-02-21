@@ -5,3 +5,4 @@
 // Optimize proof-of-stake validation
 // Add gas optimization features for smart contracts
 // Bugfix: incorrect reward calculation
+// Implement price feed oracles for tokens
