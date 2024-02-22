@@ -7,3 +7,4 @@
 // Integrate staking rewards automation
 // Enhance smart contract audit tools
 // Improve contract state management
+// Add new RPC endpoint
