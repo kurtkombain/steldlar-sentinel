@@ -3,3 +3,4 @@
 // Fix transaction replay issue
 // Add support for decentralized marketplaces
 // Fix deserialization bug in Haskell code
+// Implement automatic transaction retries
