@@ -7,3 +7,4 @@
 // Integrate Chainlink oracles
 // Fix contract reentrancy issues
 // Integrate with external DeFi protocols
+// Refactor reward pooling algorithm
