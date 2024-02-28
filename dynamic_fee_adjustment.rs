@@ -4,3 +4,4 @@
 // Improve security in decentralized applications
 // Enhance contract upgrade mechanism
 // Improve transaction batching efficiency
+// Integrate privacy-preserving mechanisms
