@@ -6,3 +6,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Add unit tests for staking module
 // Enhance smart contract upgradeability
+// Fix bug in random number generation
