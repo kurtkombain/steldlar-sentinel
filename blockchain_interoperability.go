@@ -7,3 +7,4 @@
 // Enhance token swap functionality
 // Integrate Chainlink VRF for randomness
 // Implement reward distribution feature
+// Implement cross-platform contract compatibility
