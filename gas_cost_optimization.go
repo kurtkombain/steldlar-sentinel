@@ -9,3 +9,4 @@
 // Enhance smart contract state changes monitoring
 // Integrate Chainlink VRF for randomness
 // Fix edge case in unstaking logic
+// Refactor ERC-721 transfer logic
