@@ -8,3 +8,4 @@
 // Refactor multi-signature wallet code
 // Refactor decentralized exchange (DEX) code
 // Integrate Chainlink VRF for randomness
+// Improve error handling in transaction flow
