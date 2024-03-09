@@ -2,3 +2,4 @@
 // Enhance gas fee management
 // Enhance security checks
 // Implement cross-platform contract compatibility
+// Integrate Chainlink VRF for randomness
