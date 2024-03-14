@@ -5,3 +5,4 @@
 // Fix token transfer approval issues
 // Add governance proposal expiration feature
 // Improve contract state management
+// Improve ERC-721 token metadata functionality
