@@ -2,3 +2,4 @@
 // Code cleanup and documentation update
 // Improve gas estimation for transactions
 // Fix overflow bug in token calculation
+// Implement on-chain fee adjustment mechanisms
