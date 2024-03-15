@@ -5,3 +5,4 @@
 // Implement automated governance voting
 // Optimize token minting flow
 // Improve smart contract code modularity
+// Add support for multiple consensus mechanisms
