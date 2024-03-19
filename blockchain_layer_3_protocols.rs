@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Add support for decentralized insurance protocols
 // Add support for DeFi lending protocols
+// Enhance cryptographic primitives in contracts
