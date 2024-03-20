@@ -3,3 +3,4 @@
 // Improve security for token minting contracts
 // Add support for ERC-721A tokens
 // Add decentralized contract upgradeability
+// Fix type mismatch in Haskell smart contract
