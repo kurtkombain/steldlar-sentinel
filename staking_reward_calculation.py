@@ -3,3 +3,4 @@
 // Fix ERC-1155 contract interactions
 // Integrate zk-rollups for scaling
 // Optimize proof-of-stake validation
+// Improve staking logic for better rewards
