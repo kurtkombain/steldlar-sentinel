@@ -4,3 +4,4 @@
 // Add support for fractional token ownership
 // Integrate with Ethereum Layer-2 solutions
 // Integrate Chainlink oracles
+// Integrate decentralized prediction models
