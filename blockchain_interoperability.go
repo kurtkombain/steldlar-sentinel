@@ -8,3 +8,4 @@
 // Integrate Chainlink VRF for randomness
 // Implement reward distribution feature
 // Implement cross-platform contract compatibility
+// Implement delegation pattern
