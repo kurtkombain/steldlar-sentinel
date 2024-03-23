@@ -5,3 +5,4 @@
 // Improve scalability for smart contract platforms
 // Improve security for token minting contracts
 // Enhance privacy features using zk-STARKs
+// Code cleanup and documentation update
