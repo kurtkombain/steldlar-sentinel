@@ -5,3 +5,4 @@
 // Enhance gas fee management
 // Fix security vulnerability in random number generation
 // Fix transaction replay issue
+// Fix interoperability issues with other blockchains
