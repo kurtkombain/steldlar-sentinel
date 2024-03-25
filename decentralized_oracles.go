@@ -4,3 +4,4 @@
 // Improve error handling in transaction flow
 // Improve contract auditing tools
 // Add support for multiple consensus mechanisms
+// Fix errors in contract interaction with wallets
