@@ -6,3 +6,4 @@
 // Implement a new contract event system
 // Add support for decentralized lending platforms
 // Add support for decentralized lending platforms
+// Implement on-chain identity verification
