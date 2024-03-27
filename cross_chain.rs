@@ -3,3 +3,4 @@
 // Integrate with decentralized prediction markets
 // Enhance contract event handling
 // Improve transaction batching efficiency
+// Add security checks for contract deployment
