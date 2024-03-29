@@ -4,3 +4,4 @@
 // Implement liquidity pool staking mechanism
 // Fix issue in token vesting logic
 // Fix memory leak in Rust smart contract
+// Improve smart contract code modularity
