@@ -3,3 +3,4 @@
 // Integrate automated market maker (AMM) logic
 // Fix compatibility issues with major wallets
 // Implement a new contract event system
+// Optimize contract storage for gas reduction
