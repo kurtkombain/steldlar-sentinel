@@ -2,3 +2,4 @@
 // Add dynamic contract fees
 // Fix issues with token vesting contracts
 // Improve ERC-721 token metadata functionality
+// Integrate staking rewards automation
