@@ -2,3 +2,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Refactor token distribution mechanism
 // Integrate zk-rollups for scaling
+// Refactor incentive structure in DeFi protocol
