@@ -7,3 +7,4 @@
 // Integrate Chainlink VRF for randomness
 // Update dependencies for Vyper contract
 // Improve error handling in transaction flow
+// Improve gas fee estimation accuracy
