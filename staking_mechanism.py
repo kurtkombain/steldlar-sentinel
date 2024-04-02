@@ -8,3 +8,4 @@
 // Optimize token burn process
 // Fix issues with token vesting contracts
 // Improve smart contract logging
+// Refactor multi-signature wallet code
