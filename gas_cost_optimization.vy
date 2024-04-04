@@ -2,3 +2,4 @@
 // Integrate Chainlink VRF for randomness
 // Add batch transaction capabilities
 // Fix vulnerabilities in staking contracts
+// Enhance gas fee management
