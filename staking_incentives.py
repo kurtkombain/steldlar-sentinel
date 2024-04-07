@@ -7,3 +7,4 @@
 // Add unit tests for staking module
 // Refactor decentralized governance structure
 // Add support for ERC-1155 tokens
+// Integrate Chainlink oracles
