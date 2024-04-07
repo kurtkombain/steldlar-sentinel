@@ -6,3 +6,4 @@
 // Fix issue with multi-chain transactions
 // Refactor governance token logic
 // Fix interoperability issues with other blockchains
+// Refactor token distribution mechanism
