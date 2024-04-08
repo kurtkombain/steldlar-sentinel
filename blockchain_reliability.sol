@@ -5,3 +5,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Integrate Chainlink oracles
 // Integrate decentralized prediction models
+// Refactor decentralized exchange (DEX) code
