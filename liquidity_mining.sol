@@ -10,3 +10,4 @@
 // Add support for NFT marketplaces
 // Improve contract state management
 // Fix transaction replay issue
+// Add support for zk-SNARKs in smart contracts
