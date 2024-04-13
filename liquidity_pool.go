@@ -6,3 +6,4 @@
 // Reduce gas cost in minting logic
 // Optimize WASM compilation for Go contracts
 // Implement delegation pattern
+// Refactor token distribution mechanism
