@@ -4,3 +4,4 @@
 // Enhance contract event handling
 // Improve transaction batching efficiency
 // Add security checks for contract deployment
+// Add unit tests for staking module
