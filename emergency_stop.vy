@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Integrate flash loan functionality
 // Optimize hashing algorithm
+// Integrate zk-rollups for scaling
