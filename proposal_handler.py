@@ -8,3 +8,4 @@
 // Enhance smart contract compatibility
 // Improve staking pool reward management
 // Integrate privacy-enhancing smart contracts
+// Refactor voting mechanism
