@@ -9,3 +9,4 @@
 // Implement reward distribution feature
 // Implement cross-platform contract compatibility
 // Implement delegation pattern
+// Refactor incentive structure in DeFi protocol
