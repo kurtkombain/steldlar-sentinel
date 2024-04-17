@@ -4,3 +4,4 @@
 // Refactor token economics model
 // Update smart contract tests
 // Improve gas estimation for transactions
+// Fix governance proposal approval logic
