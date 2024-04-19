@@ -10,3 +10,4 @@
 // Fix ERC-1155 contract interactions
 // Add dynamic contract fees
 // Enhance privacy features using zk-STARKs
+// Refactor governance token logic
