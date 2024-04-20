@@ -3,3 +3,4 @@
 // Improve gas estimation for transactions
 // Enhance developer documentation
 // Implement rewards escrow system
+// Enhance smart contract state changes monitoring
