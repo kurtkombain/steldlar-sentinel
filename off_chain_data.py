@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Refactor reward pooling algorithm
 // Refactor token distribution mechanism
+// Refactor cross-chain communication layer
