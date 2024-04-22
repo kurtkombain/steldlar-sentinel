@@ -5,3 +5,4 @@
 // Refactor wallet interaction logic
 // Optimize multi-chain interaction
 // Enhance gas fee management
+// Fix issues with contract finalization
