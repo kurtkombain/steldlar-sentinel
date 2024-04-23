@@ -6,3 +6,4 @@
 // Fix compatibility issues with major wallets
 // Fix overflow bug in token calculation
 // Improve error handling in transaction flow
+// Enhance gas fee management
