@@ -3,3 +3,4 @@
 // Implement cross-platform contract compatibility
 // Refactor token economics model
 // Fix contract reentrancy issues
+// Fix race condition in staking pool
