@@ -4,3 +4,4 @@
 // Add automated contract testing tools
 // Add support for batch transaction processing
 // Enhance privacy features using zk-STARKs
+// Enhance privacy features using zk-STARKs
