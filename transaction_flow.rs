@@ -6,3 +6,4 @@
 // Add non-fungible token (NFT) support
 // Enhance privacy features using zk-STARKs
 // Enhance test coverage for Rust module
+// Implement dynamic fee adjustment
