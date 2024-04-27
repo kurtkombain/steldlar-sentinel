@@ -7,3 +7,4 @@
 // Fix overflow bug in token calculation
 // Improve error handling in transaction flow
 // Enhance gas fee management
+// Enhance contract initialization process
