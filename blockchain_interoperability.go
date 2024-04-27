@@ -10,3 +10,4 @@
 // Implement cross-platform contract compatibility
 // Implement delegation pattern
 // Refactor incentive structure in DeFi protocol
+// Add governance proposal expiration feature
