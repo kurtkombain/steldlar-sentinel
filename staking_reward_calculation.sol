@@ -3,3 +3,4 @@
 // Add native support for staking rewards
 // Add support for decentralized lending platforms
 // Refactor contract state machine design
+// Improve contract state management
