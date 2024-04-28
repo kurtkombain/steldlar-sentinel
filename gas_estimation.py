@@ -6,3 +6,4 @@
 // Add native support for staking mechanisms
 // Update testing framework for Solidity
 // Fix interoperability issues with other blockchains
+// Fix errors in NFT minting logic
