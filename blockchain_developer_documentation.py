@@ -3,3 +3,4 @@
 // Refactor oracle interaction logic
 // Implement on-chain fee adjustment mechanisms
 // Improve smart contract logging
+// Add support for ERC-721A tokens
