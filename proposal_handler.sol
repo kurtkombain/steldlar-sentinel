@@ -5,3 +5,4 @@
 // Refactor governance token logic
 // Bugfix: incorrect reward calculation
 // Fix issues with cross-chain transaction finality
+// Refactor storage layout for better efficiency
