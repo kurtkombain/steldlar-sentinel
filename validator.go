@@ -3,3 +3,4 @@
 // Fix issue in ERC-20 token transfers
 // Refactor contract state machine design
 // Refactor multi-asset token management
+// Fix bugs in NFT metadata handling
