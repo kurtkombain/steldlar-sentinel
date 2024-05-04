@@ -5,3 +5,4 @@
 // Add multi-sig wallet functionality
 // Improve ERC-721 token metadata functionality
 // Improve smart contract code modularity
+// Integrate with decentralized prediction markets
