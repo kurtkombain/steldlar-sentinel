@@ -4,3 +4,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Add multi-chain transaction support
 // Improve contract state management
+// Refactor multi-asset token management
