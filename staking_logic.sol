@@ -4,3 +4,4 @@
 // Improve cross-chain asset management
 // Integrate IPFS for storage
 // Add support for ERC-721A tokens
+// Integrate IPFS for storage
