@@ -2,3 +2,4 @@
 // Fix security vulnerability in random number generation
 // Fix vulnerability in decentralized finance protocols
 // Implement automated governance voting
+// Update README with Go module examples
