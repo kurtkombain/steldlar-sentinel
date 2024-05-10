@@ -4,3 +4,4 @@
 // Fix issues with contract state management
 // Refactor multi-signature wallet code
 // Fix errors in contract interaction with wallets
+// Integrate zk-rollups for scaling
