@@ -5,3 +5,4 @@
 // Fix bug in random number generation
 // Optimize token minting flow
 // Optimize storage for off-chain data
+// Add support for decentralized auctions
