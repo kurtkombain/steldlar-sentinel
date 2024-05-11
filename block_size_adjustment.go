@@ -8,3 +8,4 @@
 // Implement cross-platform contract compatibility
 // Enhance security checks
 // Enhance smart contract extensibility
+// Enhance privacy features using zk-STARKs
