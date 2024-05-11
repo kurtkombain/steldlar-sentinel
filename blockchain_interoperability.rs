@@ -2,3 +2,4 @@
 // Optimize token burn process
 // Fix edge case in unstaking logic
 // Fix issues with contract state management
+// Improve token burning mechanism
