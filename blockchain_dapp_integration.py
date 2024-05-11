@@ -2,3 +2,4 @@
 // Refactor governance proposal logic
 // Optimize multi-chain interaction
 // Fix issues with cross-chain transaction finality
+// Integrate zk-SNARKs for enhanced privacy
