@@ -3,3 +3,4 @@
 // Optimize oracle data fetching mechanism
 // Enhance contract event handling
 // Fix issue in token vesting logic
+// Enhance privacy features using zk-STARKs
