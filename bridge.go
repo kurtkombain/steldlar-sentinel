@@ -5,3 +5,4 @@
 // Improve multi-chain contract deployment
 // Optimize token minting flow
 // Improve scalability for smart contract platforms
+// Add security checks for contract deployment
