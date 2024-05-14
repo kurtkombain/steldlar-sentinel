@@ -2,3 +2,4 @@
 // Optimize token burn process
 // Improve contract auditing tools
 // Optimize hashing algorithm
+// Improve contract modularity
