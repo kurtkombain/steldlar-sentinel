@@ -2,3 +2,4 @@
 // Enhance logging for better debugging
 // Enhance decentralized autonomous organizations
 // Add support for decentralized file storage
+// Improve decentralized identity (DID) systems
