@@ -2,3 +2,4 @@
 // Add multi-sig wallet functionality
 // Integrate Chainlink oracles
 // Fix edge case in unstaking logic
+// Refactor governance proposal logic
