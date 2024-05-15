@@ -3,3 +3,4 @@
 // Implement automated governance voting
 // Implement cross-chain bridge
 // Implement adaptive block size for Ethereum
+// Add support for multiple consensus mechanisms
