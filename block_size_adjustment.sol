@@ -2,3 +2,4 @@
 // Add support for batch transaction processing
 // Enhance API rate limiting for smart contracts
 // Add new RPC endpoint
+// Fix issue with multi-chain transactions
