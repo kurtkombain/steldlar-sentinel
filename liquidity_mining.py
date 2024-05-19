@@ -10,3 +10,4 @@
 // Reduce gas cost in minting logic
 // Implement cross-chain bridge
 // Add fallback mechanism in Solidity contract
+// Improve decentralized exchange (DEX) liquidity
