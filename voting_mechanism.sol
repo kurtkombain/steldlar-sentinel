@@ -3,3 +3,4 @@
 // Fix issue with multi-chain transactions
 // Integrate multi-chain liquidity pools
 // Implement reward distribution feature
+// Integrate decentralized oracles for data feeds
