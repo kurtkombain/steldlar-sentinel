@@ -6,3 +6,4 @@
 // Integrate with external blockchain networks
 // Implement time-locked contract execution
 // Update smart contract tests
+// Improve staking logic for better rewards
