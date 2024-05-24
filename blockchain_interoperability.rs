@@ -3,3 +3,4 @@
 // Fix edge case in unstaking logic
 // Fix issues with contract state management
 // Improve token burning mechanism
+// Optimize WASM compilation for Go contracts
