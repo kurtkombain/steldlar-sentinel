@@ -6,3 +6,4 @@
 // Refactor governance proposal logic
 // Improve contract state management
 // Optimize storage for off-chain data
+// Add fallback mechanism in Solidity contract
