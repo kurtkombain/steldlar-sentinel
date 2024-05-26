@@ -7,3 +7,4 @@
 // Enhance contract interaction APIs
 // Integrate chain-agnostic oracles
 // Refactor contract event emission
+// Add batch transaction capabilities
