@@ -2,3 +2,4 @@
 // Add native support for staking rewards
 // Fix issues with token transfer confirmations
 // Improve multi-chain transaction processing
+// Fix issue in token vesting logic
