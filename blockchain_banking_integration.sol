@@ -2,3 +2,4 @@
 // Add automated token buyback mechanism
 // Refactor validator reward system
 // Optimize decentralized application performance
+// Add native support for staking rewards
