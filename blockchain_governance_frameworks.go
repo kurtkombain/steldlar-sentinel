@@ -6,3 +6,4 @@
 // Improve API rate limiting
 // Improve ERC-721 token metadata functionality
 // Refactor multi-asset token management
+// Implement contract function batching
