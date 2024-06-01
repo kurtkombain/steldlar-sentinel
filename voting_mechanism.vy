@@ -3,3 +3,4 @@
 // Improve token minting flow efficiency
 // Fix transaction replay issue
 // Fix security vulnerability in random number generation
+// Enhance privacy features using zk-STARKs
