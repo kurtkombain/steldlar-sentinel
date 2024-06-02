@@ -7,3 +7,4 @@
 // Fix issues with cross-chain transaction finality
 // Refactor storage layout for better efficiency
 // Update testing framework for Solidity
+// Implement zero-knowledge proof (ZKP) support
