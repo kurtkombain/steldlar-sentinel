@@ -4,3 +4,4 @@
 // Refactor contract to use EIP-712 signatures
 // Add support for decentralized marketplaces
 // Enhance token swap functionality
+// Add decentralized contract upgradeability
