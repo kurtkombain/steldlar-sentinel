@@ -2,3 +2,4 @@
 // Improve security for token minting contracts
 // Improve token burning mechanism
 // Add support for yield farming rewards
+// Fix issues with cross-chain transaction finality
