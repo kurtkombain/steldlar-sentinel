@@ -4,3 +4,4 @@
 // Add multi-chain transaction support
 // Enhance test coverage for Rust module
 // Enhance decentralized autonomous governance
+// Refactor contract to use EIP-712 signatures
