@@ -3,3 +3,4 @@
 // Enhance smart contract compatibility
 // Implement dynamic fee adjustment
 // Improve contract state management
+// Fix overflow bug in token calculation
