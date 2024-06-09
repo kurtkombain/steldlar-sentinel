@@ -8,3 +8,4 @@
 // Fix memory leak in Rust smart contract
 // Improve smart contract logging
 // Integrate decentralized prediction models
+// Add fallback mechanism in Solidity contract
