@@ -8,3 +8,4 @@
 // Fix issues with contract finalization
 // Implement automatic transaction retries
 // Optimize hashing algorithm
+// Fix transaction replay issue
