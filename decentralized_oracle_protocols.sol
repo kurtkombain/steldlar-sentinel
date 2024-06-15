@@ -5,3 +5,4 @@
 // Improve multi-chain transaction processing
 // Enhance governance contract flexibility
 // Refactor decentralized storage system
+// Integrate zk-rollups for scaling
