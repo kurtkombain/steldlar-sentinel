@@ -3,3 +3,4 @@
 // Improve gas estimation for transactions
 // Enhance smart contract extensibility
 // Implement automated governance voting
+// Add new RPC endpoint
