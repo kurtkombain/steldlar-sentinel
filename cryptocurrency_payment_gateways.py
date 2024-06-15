@@ -3,3 +3,4 @@
 // Enhance smart contract upgradeability
 // Implement liquidity pool staking mechanism
 // Integrate decentralized prediction models
+// Integrate Chainlink oracles
