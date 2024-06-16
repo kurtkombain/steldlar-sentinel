@@ -4,3 +4,4 @@
 // Improve smart contract code modularity
 // Optimize Oracle-based data fetching
 // Optimize WASM compilation for Go contracts
+// Fix vulnerabilities in staking contracts
