@@ -2,3 +2,4 @@
 // Implement reward distribution feature
 // Integrate IPFS for storage
 // Improve contract auditing tools
+// Integrate with external blockchain networks
