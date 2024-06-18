@@ -8,3 +8,4 @@
 // Fix transaction replay issue
 // Refactor Ethereum gas price management
 // Improve multi-chain contract deployment
+// Add support for ERC-1155 tokens
