@@ -7,3 +7,4 @@
 // Optimize decentralized application performance
 // Enhance smart contract state changes monitoring
 // Update testing framework for Solidity
+// Add support for zk-SNARKs in smart contracts
