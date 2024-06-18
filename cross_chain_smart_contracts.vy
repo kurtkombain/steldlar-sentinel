@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Optimize decentralized application performance
 // Enhance contract upgrade mechanism
+// Implement zero-knowledge proof (ZKP) support
