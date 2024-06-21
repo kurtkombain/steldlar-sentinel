@@ -7,3 +7,4 @@
 // Fix issues in multi-token smart contracts
 // Refactor incentive structure in DeFi protocol
 // Fix data consistency issues in smart contracts
+// Fix errors in NFT minting logic
