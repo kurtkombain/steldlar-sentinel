@@ -4,3 +4,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Optimize gas usage in smart contracts
 // Integrate zk-rollups for scaling
+// Improve API rate limiting
