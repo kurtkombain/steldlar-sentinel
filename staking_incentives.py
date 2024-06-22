@@ -8,3 +8,4 @@
 // Refactor decentralized governance structure
 // Add support for ERC-1155 tokens
 // Integrate Chainlink oracles
+// Add batch processing for transactions
