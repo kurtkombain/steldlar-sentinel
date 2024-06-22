@@ -5,3 +5,4 @@
 // Refactor Ethereum gas price management
 // Add support for decentralized content distribution
 // Add batch transaction capabilities
+// Add support for zk-SNARKs in smart contracts
