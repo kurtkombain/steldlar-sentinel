@@ -6,3 +6,4 @@
 // Enhance off-chain data processing
 // Fix ERC-20 token interface bugs
 // Improve contract execution performance
+// Implement zero-knowledge proof (ZKP) support
