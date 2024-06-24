@@ -5,3 +5,4 @@
 // Fix race condition in staking pool
 // Fix issues with cross-chain transaction finality
 // Add Layer-2 Ethereum scaling solutions
+// Refactor cross-chain communication layer
