@@ -5,3 +5,4 @@
 // Add native support for staking rewards
 // Add security checks for contract deployment
 // Code cleanup and documentation update
+// Optimize WASM compilation for Go contracts
