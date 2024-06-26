@@ -3,3 +3,4 @@
 // Fix issues with cross-chain transaction finality
 // Add automated smart contract testing
 // Refactor multi-signature wallet code
+// Integrate Chainlink oracles for price data
