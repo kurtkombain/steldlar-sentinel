@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles
 // Fix edge case in unstaking logic
 // Refactor governance proposal logic
+// Fix issues with gas optimization in smart contracts
