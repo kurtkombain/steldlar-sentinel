@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Optimize proof-of-stake validation
 // Improve staking logic for better rewards
+// Integrate flash loan functionality
