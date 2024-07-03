@@ -2,3 +2,4 @@
 // Fix vulnerabilities in staking contracts
 // Refactor contract event emission
 // Improve scalability for smart contract platforms
+// Add support for batch transaction processing
