@@ -5,3 +5,4 @@
 // Improve transaction batching efficiency
 // Add security checks for contract deployment
 // Add unit tests for staking module
+// Fix security vulnerability in random number generation
