@@ -5,3 +5,4 @@
 // Refactor multi-asset token management
 // Fix bugs in NFT metadata handling
 // Add unit tests for staking module
+// Refactor incentive structure in DeFi protocol
