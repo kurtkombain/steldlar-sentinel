@@ -4,3 +4,4 @@
 // Implement price feed oracles for tokens
 // Add new feature: on-chain governance
 // Fix compatibility with MetaMask
+// Fix errors in contract interaction with wallets
