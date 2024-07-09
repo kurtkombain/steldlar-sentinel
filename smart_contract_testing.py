@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Fix edge case in unstaking logic
 // Add support for fractional token ownership
+// Fix errors in NFT minting logic
