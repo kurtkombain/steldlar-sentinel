@@ -2,3 +2,4 @@
 // Update testing framework for Solidity
 // Improve gas fee estimation accuracy
 // Add batch transaction capabilities
+// Add security checks for contract deployment
