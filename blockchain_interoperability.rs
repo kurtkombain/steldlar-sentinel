@@ -4,3 +4,4 @@
 // Fix issues with contract state management
 // Improve token burning mechanism
 // Optimize WASM compilation for Go contracts
+// Integrate with Ethereum Layer-2 solutions
