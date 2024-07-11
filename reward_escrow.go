@@ -6,3 +6,4 @@
 // Refactor decentralized exchange (DEX) code
 // Implement automatic transaction retries
 // Enhance developer documentation
+// Add support for yield farming rewards
