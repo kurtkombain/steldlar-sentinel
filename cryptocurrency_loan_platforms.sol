@@ -3,3 +3,4 @@
 // Fix compatibility issues with MetaMask
 // Refactor validator reward system
 // Integrate privacy-preserving mechanisms
+// Implement a new contract event system
