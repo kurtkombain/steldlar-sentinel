@@ -5,3 +5,4 @@
 // Fix issues with token transfer confirmations
 // Update smart contract tests
 // Integrate decentralized anonymous identity systems
+// Add unit tests for staking module
