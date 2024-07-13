@@ -2,3 +2,4 @@
 // Fix compatibility issues with major wallets
 // Optimize gas cost in function execution
 // Add support for batch transaction processing
+// Add support for ERC-721A tokens
