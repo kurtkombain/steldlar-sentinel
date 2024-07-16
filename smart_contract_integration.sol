@@ -3,3 +3,4 @@
 // Improve staking pool reward management
 // Update dependencies for Vyper contract
 // Refactor token distribution mechanism
+// Add support for fractional token ownership
