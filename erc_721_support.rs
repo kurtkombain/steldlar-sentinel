@@ -7,3 +7,4 @@
 // Enhance smart contract state changes monitoring
 // Optimize hashing algorithm
 // Improve contract modularity
+// Add support for ERC-1155 tokens
