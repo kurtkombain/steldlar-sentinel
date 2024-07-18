@@ -14,3 +14,4 @@
 // Refactor contract event emission
 // Add support for batch transaction processing
 // Add automated contract testing tools
+// Integrate privacy-preserving mechanisms
