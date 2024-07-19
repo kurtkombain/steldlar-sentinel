@@ -4,3 +4,4 @@
 // Fix governance proposal approval logic
 // Improve ERC-721 token metadata functionality
 // Improve contract state management
+// Fix ERC-20 token interface bugs
