@@ -3,3 +3,4 @@
 // Improve contract state management
 // Fix interoperability issues with other blockchains
 // Fix transaction replay issue
+// Refactor token distribution mechanism
