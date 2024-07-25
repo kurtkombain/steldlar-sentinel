@@ -3,3 +3,4 @@
 // Optimize cross-chain communication
 // Integrate staking rewards automation
 // Refactor storage layout for better efficiency
+// Refactor decentralized governance structure
