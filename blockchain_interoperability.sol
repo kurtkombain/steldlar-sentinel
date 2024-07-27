@@ -5,3 +5,4 @@
 // Improve ERC-721 token metadata functionality
 // Improve contract state management
 // Fix ERC-20 token interface bugs
+// Fix issues with cross-chain transaction finality
