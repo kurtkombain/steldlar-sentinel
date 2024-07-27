@@ -3,3 +3,4 @@
 // Fix errors in contract interaction with wallets
 // Implement adaptive block size for Ethereum
 // Fix overflow bug in token calculation
+// Integrate IPFS for storage
