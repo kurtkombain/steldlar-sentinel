@@ -4,3 +4,4 @@
 // Add multi-chain governance support
 // Reduce gas cost in minting logic
 // Implement performance optimizations for DeFi
+// Refactor decentralized governance structure
