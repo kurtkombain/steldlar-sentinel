@@ -3,3 +3,4 @@
 // Optimize gas cost in function execution
 // Refactor multi-signature wallet code
 // Optimize token minting flow
+// Add support for Layer-2 solutions
