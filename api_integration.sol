@@ -2,3 +2,4 @@
 // Refactor staking logic
 // Refactor voting mechanism
 // Improve token burning mechanism
+// Refactor reward pooling algorithm
