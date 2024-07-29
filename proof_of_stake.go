@@ -5,3 +5,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Enhance smart contract upgradeability
 // Update smart contract tests
+// Enhance cryptographic primitives in contracts
