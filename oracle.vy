@@ -4,3 +4,4 @@
 // Improve token burning mechanism
 // Integrate decentralized oracles for data feeds
 // Fix race condition in staking pool
+// Add support for DeFi lending protocols
