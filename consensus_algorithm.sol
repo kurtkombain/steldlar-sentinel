@@ -6,3 +6,4 @@
 // Improve contract creation process
 // Integrate Chainlink VRF for randomness
 // Add batch processing for transactions
+// Refactor smart contract testing framework
