@@ -4,3 +4,4 @@
 // Improve smart contract logging
 // Add support for ERC-721A tokens
 // Enhance transaction monitoring
+// Refactor governance token logic
