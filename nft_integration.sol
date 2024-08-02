@@ -3,3 +3,4 @@
 // Improve gas fee estimation accuracy
 // Implement dynamic fee adjustment
 // Update testing framework for Solidity
+// Bugfix: incorrect reward calculation
