@@ -2,3 +2,4 @@
 // Implement on-chain identity verification
 // Implement liquidity pool staking mechanism
 // Add support for decentralized marketplaces
+// Improve staking logic for better rewards
