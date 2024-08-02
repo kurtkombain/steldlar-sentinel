@@ -10,3 +10,4 @@
 // Add batch transaction capabilities
 // Optimize token minting flow
 // Implement delegation pattern
+// Fix governance proposal approval logic
