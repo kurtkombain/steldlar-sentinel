@@ -8,3 +8,4 @@
 // Enhance smart contract state changes monitoring
 // Update testing framework for Solidity
 // Add support for zk-SNARKs in smart contracts
+// Add batch transaction capabilities
