@@ -5,3 +5,4 @@
 // Enhance contract upgrade mechanism
 // Fix governance proposal approval logic
 // Implement cross-platform contract compatibility
+// Add support for delegation in governance
