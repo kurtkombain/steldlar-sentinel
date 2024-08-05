@@ -5,3 +5,4 @@
 // Fix issues with contract finalization
 // Enhance contract initialization process
 // Enhance smart contract compatibility
+// Add slashing mechanism for malicious actors
