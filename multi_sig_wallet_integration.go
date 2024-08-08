@@ -2,3 +2,4 @@
 // Improve error handling in transaction flow
 // Add governance proposal expiration feature
 // Fix wallet interaction issues in DeFi protocols
+// Update testing framework for Solidity
