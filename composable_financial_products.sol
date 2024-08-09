@@ -4,3 +4,4 @@
 // Implement adaptive block size for Ethereum
 // Fix overflow bug in token calculation
 // Integrate IPFS for storage
+// Improve scalability for smart contract platforms
