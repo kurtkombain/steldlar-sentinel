@@ -4,3 +4,4 @@
 // Refactor contract state machine design
 // Add support for fractional token ownership
 // Improve decentralized oracle protocols
+// Refactor staking logic
