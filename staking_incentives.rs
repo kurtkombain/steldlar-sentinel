@@ -4,3 +4,4 @@
 // Enhance contract modularity for future upgrades
 // Add support for cross-chain bridges
 // Integrate chain-agnostic oracles
+// Add support for zk-SNARKs in smart contracts
