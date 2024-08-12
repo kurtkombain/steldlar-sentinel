@@ -3,3 +3,4 @@
 // Improve contract execution speed
 // Add new RPC endpoint
 // Add multi-chain transaction support
+// Refactor governance token logic
