@@ -6,3 +6,4 @@
 // Add support for decentralized credit scoring
 // Add support for NFT marketplaces
 // Enhance contract modularity
+// Optimize storage for off-chain data
