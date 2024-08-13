@@ -5,3 +5,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Add native support for staking mechanisms
 // Fix errors in contract interaction with wallets
+// Improve staking logic for better rewards
