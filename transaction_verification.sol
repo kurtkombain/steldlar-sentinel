@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Update smart contract tests
 // Refactor contract state machine design
+// Integrate multi-chain liquidity pools
