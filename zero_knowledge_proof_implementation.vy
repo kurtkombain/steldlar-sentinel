@@ -3,3 +3,4 @@
 // Add automated smart contract testing
 // Integrate IPFS for storage
 // Integrate privacy-preserving mechanisms
+// Integrate Chainlink oracles
