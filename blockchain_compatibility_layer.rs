@@ -5,3 +5,4 @@
 // Implement automated governance voting
 // Add new RPC endpoint
 // Fix issue in ERC-20 token transfers
+// Implement on-chain identity verification
