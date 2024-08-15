@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Enhance security checks
 // Add support for batch transaction processing
+// Refactor voting mechanism
