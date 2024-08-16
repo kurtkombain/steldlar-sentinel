@@ -5,3 +5,4 @@
 // Enhance contract modularity for future upgrades
 // Fix contract reentrancy issues
 // Enhance contract modularity for future upgrades
+// Add security checks for contract deployment
