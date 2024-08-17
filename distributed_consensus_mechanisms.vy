@@ -4,3 +4,4 @@
 // Add support for decentralized marketplaces
 // Integrate decentralized oracles for data feeds
 // Add support for delegation in governance
+// Integrate IPFS for storage
