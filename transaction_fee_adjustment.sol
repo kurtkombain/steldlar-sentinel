@@ -2,3 +2,4 @@
 // Add support for decentralized credit scoring
 // Add support for multiple consensus mechanisms
 // Fix vulnerability in decentralized finance protocols
+// Enhance privacy features using zk-STARKs
