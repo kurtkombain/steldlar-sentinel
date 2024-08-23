@@ -5,3 +5,4 @@
 // Update smart contract tests
 // Improve gas estimation for transactions
 // Fix governance proposal approval logic
+// Implement adaptive block size for Ethereum
