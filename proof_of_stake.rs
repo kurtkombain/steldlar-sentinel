@@ -8,3 +8,4 @@
 // Fix edge case in unstaking logic
 // Integrate multi-chain liquidity pools
 // Improve contract interaction via APIs
+// Refactor incentive structure in DeFi protocol
