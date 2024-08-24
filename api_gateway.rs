@@ -8,3 +8,4 @@
 // Improve contract verification speed
 // Integrate IPFS for storage
 // Optimize state channels for faster transactions
+// Add non-fungible token (NFT) support
