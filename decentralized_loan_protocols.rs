@@ -3,3 +3,4 @@
 // Improve gas estimation for transactions
 // Bugfix: incorrect reward calculation
 // Integrate Chainlink VRF for randomness
+// Fix scalability issues with smart contracts
