@@ -4,3 +4,4 @@
 // Optimize decentralized oracle performance
 // Fix transaction replay issue
 // Implement reward distribution feature
+// Add support for ERC-721A tokens
