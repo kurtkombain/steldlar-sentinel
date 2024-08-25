@@ -5,3 +5,4 @@
 // Optimize storage for off-chain data
 // Optimize proof-of-stake validation
 // Integrate automated market maker (AMM) logic
+// Integrate with decentralized prediction markets
