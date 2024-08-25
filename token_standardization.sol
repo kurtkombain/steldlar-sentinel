@@ -2,3 +2,4 @@
 // Improve token burning mechanism
 // Improve smart contract code modularity
 // Improve gas estimation for transactions
+// Integrate decentralized anonymous identity systems
