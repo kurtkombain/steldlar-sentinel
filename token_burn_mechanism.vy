@@ -5,3 +5,4 @@
 // Enhance governance contract flexibility
 // Fix vulnerabilities in staking contracts
 // Refactor smart contract testing framework
+// Improve error handling in transaction flow
