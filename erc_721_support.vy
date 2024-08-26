@@ -4,3 +4,4 @@
 // Optimize token minting flow
 // Refactor contract to use EIP-712 signatures
 // Update smart contract tests
+// Integrate with multi-token standards
