@@ -5,3 +5,4 @@
 // Optimize gas usage in contract execution
 // Integrate privacy-preserving mechanisms
 // Improve gas estimation for transactions
+// Refactor voting mechanism
