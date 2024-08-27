@@ -6,3 +6,4 @@
 // Optimize decentralized voting mechanisms
 // Optimize cross-chain bridging mechanisms
 // Optimize storage for off-chain data
+// Refactor staking logic
