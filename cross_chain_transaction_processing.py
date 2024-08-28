@@ -4,3 +4,4 @@
 // Improve oracle data validation mechanisms
 // Fix errors in NFT minting logic
 // Add decentralized contract upgradeability
+// Add support for delegation in governance
