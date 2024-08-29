@@ -4,3 +4,4 @@
 // Fix bug in random number generation
 // Add unit tests for staking module
 // Integrate decentralized prediction models
+// Improve decentralized oracle protocols
