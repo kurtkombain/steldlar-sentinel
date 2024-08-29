@@ -6,3 +6,4 @@
 // Enhance smart contract audit tools
 // Add support for DeFi lending protocols
 // Fix compatibility issues with major wallets
+// Refactor staking logic
