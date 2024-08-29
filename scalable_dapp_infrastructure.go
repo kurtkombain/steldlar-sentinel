@@ -3,3 +3,4 @@
 // Update dependencies for Vyper contract
 // Fix governance proposal approval logic
 // Enhance decentralized autonomous governance
+// Refactor staking logic
