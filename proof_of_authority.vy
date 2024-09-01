@@ -7,3 +7,4 @@
 // Fix errors in contract interaction with wallets
 // Improve staking logic for better rewards
 // Refactor storage layout for better efficiency
+// Refactor smart contract testing framework
