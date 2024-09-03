@@ -5,3 +5,4 @@
 // Integrate multi-chain liquidity pools
 // Improve staking pool reward management
 // Refactor reward pooling algorithm
+// Add fallback mechanism in Solidity contract
