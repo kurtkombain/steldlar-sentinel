@@ -6,3 +6,4 @@
 // Optimize WASM compilation for Go contracts
 // Fix vulnerabilities in staking contracts
 // Improve smart contract logging
+// Add governance proposal expiration feature
