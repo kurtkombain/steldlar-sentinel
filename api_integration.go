@@ -5,3 +5,4 @@
 // Enhance smart contract compatibility
 // Integrate Chainlink oracles
 // Integrate zk-SNARKs for enhanced privacy
+// Integrate with external DeFi protocols
