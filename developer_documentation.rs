@@ -8,3 +8,4 @@
 // Improve error handling in transaction flow
 // Enhance gas fee management
 // Enhance contract initialization process
+// Improve token burning mechanism
