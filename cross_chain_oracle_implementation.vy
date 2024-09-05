@@ -5,3 +5,4 @@
 // Add unit tests for staking module
 // Integrate decentralized prediction models
 // Improve decentralized oracle protocols
+// Fix interoperability issues with other blockchains
