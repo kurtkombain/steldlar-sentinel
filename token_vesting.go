@@ -3,3 +3,4 @@
 // Implement automated governance voting
 // Fix deserialization bug in Haskell code
 // Fix issues with token transfer confirmations
+// Add support for zk-SNARKs in smart contracts
