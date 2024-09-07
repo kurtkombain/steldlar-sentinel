@@ -10,3 +10,4 @@
 // Enhance smart contract extensibility
 // Enhance privacy features using zk-STARKs
 // Add governance proposal expiration feature
+// Add batch processing for transactions
