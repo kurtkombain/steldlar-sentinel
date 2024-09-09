@@ -8,3 +8,4 @@
 // Improve security for token minting contracts
 // Refactor incentive structure in DeFi protocol
 // Fix vulnerability in decentralized finance protocols
+// Enhance privacy features using zk-STARKs
