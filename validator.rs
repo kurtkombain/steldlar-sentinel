@@ -6,3 +6,4 @@
 // Optimize gas usage in smart contracts
 // Enhance logging for better debugging
 // Implement liquidity pool staking mechanism
+// Fix governance proposal approval logic
