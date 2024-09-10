@@ -2,3 +2,4 @@
 // Integrate Chainlink oracles
 // Add support for zk-SNARKs in smart contracts
 // Enhance transaction monitoring
+// Refactor cross-chain communication layer
