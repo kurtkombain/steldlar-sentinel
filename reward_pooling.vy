@@ -6,3 +6,4 @@
 // Fix errors in contract interaction with wallets
 // Integrate zk-rollups for scaling
 // Improve smart contract code modularity
+// Add automated smart contract testing
