@@ -3,3 +3,4 @@
 // Fix issue in token vesting logic
 // Enhance privacy features using zk-STARKs
 // Integrate with decentralized identity providers
+// Refactor decentralized storage system
