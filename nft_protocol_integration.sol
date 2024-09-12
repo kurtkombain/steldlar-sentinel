@@ -2,3 +2,4 @@
 // Optimize token burn process
 // Update README with Go module examples
 // Add native support for staking rewards
+// Fix data consistency issues in smart contracts
