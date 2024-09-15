@@ -5,3 +5,4 @@
 // Optimize proof-of-stake validation
 // Improve staking logic for better rewards
 // Integrate flash loan functionality
+// Add support for ERC-721A tokens
