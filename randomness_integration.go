@@ -5,3 +5,4 @@
 // Refactor decentralized exchange (DEX) code
 // Enhance smart contract state changes monitoring
 // Optimize contract upgrade process
+// Add support for NFT marketplaces
