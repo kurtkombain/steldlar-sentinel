@@ -4,3 +4,4 @@
 // Improve gas estimation for transactions
 // Integrate decentralized anonymous identity systems
 // Refactor storage layout for better efficiency
+// Add new RPC endpoint
