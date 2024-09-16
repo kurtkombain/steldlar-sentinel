@@ -8,3 +8,4 @@
 // Enhance contract event handling
 // Add support for decentralized auctions
 // Improve multi-chain transaction processing
+// Improve staking pool reward management
