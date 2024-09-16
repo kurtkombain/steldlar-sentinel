@@ -3,3 +3,4 @@
 // Implement on-chain identity verification
 // Integrate with decentralized storage systems
 // Enhance transaction monitoring
+// Add support for ERC-721A tokens
