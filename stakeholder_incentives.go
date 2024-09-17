@@ -3,3 +3,4 @@
 // Fix issue in token vesting logic
 // Add governance proposal expiration feature
 // Optimize gas usage in smart contracts
+// Refactor decentralized exchange (DEX) code
