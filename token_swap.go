@@ -12,3 +12,4 @@
 // Optimize contract upgrade process
 // Implement performance optimizations for DeFi
 // Fix issues with contract finalization
+// Refactor contract to use EIP-712 signatures
