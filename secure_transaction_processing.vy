@@ -3,3 +3,4 @@
 // Improve security for token minting contracts
 // Improve smart contract code modularity
 // Refactor governance token logic
+// Add support for decentralized credit scoring
