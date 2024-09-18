@@ -7,3 +7,4 @@
 // Integrate decentralized anonymous identity systems
 // Add unit tests for staking module
 // Improve contract execution speed
+// Fix type mismatch in Haskell smart contract
