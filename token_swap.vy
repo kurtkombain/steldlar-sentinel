@@ -4,3 +4,4 @@
 // Optimize storage for off-chain data
 // Refactor contract state machine design
 // Optimize contract upgrade process
+// Improve decentralized lending contract flexibility
