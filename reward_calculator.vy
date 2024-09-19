@@ -5,3 +5,4 @@
 // Fix edge case in unstaking logic
 // Optimize contract upgrade process
 // Fix issue in token vesting logic
+// Implement emergency stop mechanism
