@@ -6,3 +6,4 @@
 // Add support for multiple consensus mechanisms
 // Fix errors in contract interaction with wallets
 // Integrate Chainlink VRF for randomness
+// Fix security vulnerability in random number generation
