@@ -11,3 +11,4 @@
 // Improve staking logic for better rewards
 // Fix memory optimization issues in contracts
 // Fix ERC-721 contract issues with transfers
+// Enhance test coverage for Rust module
