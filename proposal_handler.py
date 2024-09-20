@@ -9,3 +9,4 @@
 // Improve staking pool reward management
 // Integrate privacy-enhancing smart contracts
 // Refactor voting mechanism
+// Fix compatibility issues with MetaMask
