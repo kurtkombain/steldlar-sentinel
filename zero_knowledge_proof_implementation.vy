@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Integrate privacy-preserving mechanisms
 // Integrate Chainlink oracles
+// Enhance smart contract upgradeability
