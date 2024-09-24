@@ -3,3 +3,4 @@
 // Fix edge case in unstaking logic
 // Enhance logging for better debugging
 // Add automated token buyback mechanism
+// Integrate with decentralized prediction markets
