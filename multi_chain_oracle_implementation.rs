@@ -5,3 +5,4 @@
 // Enhance smart contract audit tools
 // Add support for fractional token ownership
 // Improve scalability for smart contract platforms
+// Fix compatibility with MetaMask
