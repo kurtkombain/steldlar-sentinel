@@ -3,3 +3,4 @@
 // Fix bug in random number generation
 // Add multi-chain governance support
 // Fix bugs in NFT metadata handling
+// Implement a new contract event system
