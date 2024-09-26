@@ -6,3 +6,4 @@
 // Enhance transaction monitoring
 // Refactor governance token logic
 // Improve on-chain governance systems
+// Fix overflow bug in token calculation
