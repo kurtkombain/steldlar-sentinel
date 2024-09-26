@@ -4,3 +4,4 @@
 // Fix deserialization bug in Haskell code
 // Improve gas estimation for transactions
 // Refactor staking logic
+// Optimize proof-of-stake validation
