@@ -5,3 +5,4 @@
 // Refactor storage layout for better efficiency
 // Integrate with decentralized storage systems
 // Reduce gas cost in minting logic
+// Add batch processing for transactions
