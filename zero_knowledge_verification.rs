@@ -4,3 +4,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Add gas optimization features for smart contracts
 // Improve gas estimation for transactions
+// Refactor reward pooling algorithm
