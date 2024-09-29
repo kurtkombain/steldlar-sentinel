@@ -6,3 +6,4 @@
 // Improve error handling in transaction flow
 // Enhance smart contract upgradeability
 // Integrate with decentralized storage systems
+// Fix compatibility issues with MetaMask
