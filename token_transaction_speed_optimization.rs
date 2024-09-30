@@ -3,3 +3,4 @@
 // Reduce gas cost in minting logic
 // Improve smart contract code modularity
 // Improve decentralized lending contract flexibility
+// Refactor token distribution mechanism
