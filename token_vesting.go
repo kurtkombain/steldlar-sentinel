@@ -5,3 +5,4 @@
 // Fix issues with token transfer confirmations
 // Add support for zk-SNARKs in smart contracts
 // Optimize storage for off-chain data
+// Add automated smart contract testing
