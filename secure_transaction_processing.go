@@ -5,3 +5,4 @@
 // Enhance contract upgrade process
 // Add dynamic contract fees
 // Fix contract reentrancy issues
+// Add support for ERC-721A tokens
