@@ -3,3 +3,4 @@
 // Refactor storage layout for better efficiency
 // Enhance smart contract extensibility
 // Add support for decentralized credit scoring
+// Add batch transaction capabilities
