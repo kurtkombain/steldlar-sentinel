@@ -4,3 +4,4 @@
 // Enhance security checks
 // Add support for batch transaction processing
 // Refactor voting mechanism
+// Reduce gas cost in minting logic
