@@ -5,3 +5,4 @@
 // Reduce gas cost in minting logic
 // Implement performance optimizations for DeFi
 // Refactor decentralized governance structure
+// Integrate Chainlink oracles for price data
