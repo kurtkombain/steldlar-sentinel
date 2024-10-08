@@ -3,3 +3,4 @@
 // Add new feature: on-chain governance
 // Enhance logging for better debugging
 // Fix overflow bug in token calculation
+// Optimize oracle data fetching mechanism
