@@ -6,3 +6,4 @@
 // Refactor decentralized governance structure
 // Enhance cryptographic primitives in contracts
 // Implement time-locked contract execution
+// Integrate zk-rollups for scaling
