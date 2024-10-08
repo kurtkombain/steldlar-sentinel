@@ -4,3 +4,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Improve token minting flow efficiency
 // Fix governance proposal approval logic
+// Fix issues with contract finalization
