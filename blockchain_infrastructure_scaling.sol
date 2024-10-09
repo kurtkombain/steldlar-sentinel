@@ -2,3 +2,4 @@
 // Refactor staking logic
 // Integrate Chainlink oracles
 // Improve transaction batching efficiency
+// Implement contract function batching
