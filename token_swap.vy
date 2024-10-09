@@ -5,3 +5,4 @@
 // Refactor contract state machine design
 // Optimize contract upgrade process
 // Improve decentralized lending contract flexibility
+// Improve gas estimation for transactions
