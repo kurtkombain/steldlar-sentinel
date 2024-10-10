@@ -7,3 +7,4 @@
 // Add support for multiple consensus mechanisms
 // Add support for multiple consensus mechanisms
 // Add multi-chain governance support
+// Integrate chain-agnostic oracles
