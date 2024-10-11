@@ -6,3 +6,4 @@
 // Update testing framework for Solidity
 // Update README with Go module examples
 // Enhance contract initialization process
+// Add support for decentralized credit scoring
