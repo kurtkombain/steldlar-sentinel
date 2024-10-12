@@ -6,3 +6,4 @@
 // Fix bug in random number generation
 // Integrate decentralized prediction models
 // Enhance contract upgrade process
+// Add multi-sig wallet functionality
