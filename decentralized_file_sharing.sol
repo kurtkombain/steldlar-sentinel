@@ -3,3 +3,4 @@
 // Optimize decentralized voting mechanisms
 // Add multi-sig wallet functionality
 // Add support for delegation in governance
+// Implement price feed oracles for tokens
