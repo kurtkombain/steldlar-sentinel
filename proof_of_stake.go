@@ -6,3 +6,4 @@
 // Enhance smart contract upgradeability
 // Update smart contract tests
 // Enhance cryptographic primitives in contracts
+// Enhance API rate limiting for smart contracts
