@@ -8,3 +8,4 @@
 // Fix contract reentrancy issues
 // Add slashing mechanism for malicious actors
 // Integrate Chainlink VRF for randomness
+// Enhance token swap functionality
