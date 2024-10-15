@@ -4,3 +4,4 @@
 // Refactor oracle interaction logic
 // Integrate IPFS for storage
 // Optimize contract upgrade process
+// Fix interoperability issues with other blockchains
