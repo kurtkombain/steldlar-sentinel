@@ -3,3 +3,4 @@
 // Refactor governance proposal logic
 // Refactor smart contract testing framework
 // Fix issues in token transfer logic
+// Fix issues with contract finalization
