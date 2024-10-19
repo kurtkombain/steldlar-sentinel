@@ -5,3 +5,4 @@
 // Integrate privacy-preserving mechanisms
 // Integrate Chainlink oracles
 // Enhance smart contract upgradeability
+// Implement on-chain identity verification
