@@ -4,3 +4,4 @@
 // Enhance cryptographic primitives in contracts
 // Add batch processing for transactions
 // Optimize cross-chain bridging mechanisms
+// Integrate zk-SNARKs for enhanced privacy
