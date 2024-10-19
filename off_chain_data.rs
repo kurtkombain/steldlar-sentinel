@@ -5,3 +5,4 @@
 // Integrate staking rewards automation
 // Implement on-chain fee adjustment mechanisms
 // Optimize decentralized voting mechanisms
+// Improve staking logic for better rewards
