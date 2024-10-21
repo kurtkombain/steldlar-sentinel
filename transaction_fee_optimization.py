@@ -3,3 +3,4 @@
 // Integrate with decentralized identity providers
 // Enhance decentralized autonomous organizations
 // Integrate with decentralized identity providers
+// Fix race condition in staking pool
