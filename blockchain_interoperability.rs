@@ -6,3 +6,4 @@
 // Optimize WASM compilation for Go contracts
 // Integrate with Ethereum Layer-2 solutions
 // Fix issues with contract finalization
+// Add support for multi-signature wallet contracts
