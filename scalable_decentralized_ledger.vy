@@ -7,3 +7,4 @@
 // Enhance contract modularity
 // Enhance governance contract flexibility
 // Improve contract execution performance
+// Implement zero-knowledge proof (ZKP) support
