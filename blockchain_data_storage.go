@@ -9,3 +9,4 @@
 // Add slashing mechanism for malicious actors
 // Integrate Chainlink VRF for randomness
 // Enhance token swap functionality
+// Fix ERC-721 contract issues with transfers
