@@ -6,3 +6,4 @@
 // Improve staking pool reward management
 // Refactor reward pooling algorithm
 // Add fallback mechanism in Solidity contract
+// Fix ERC-1155 contract interactions
