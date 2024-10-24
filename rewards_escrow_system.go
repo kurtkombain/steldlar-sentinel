@@ -7,3 +7,4 @@
 // Optimize proof-of-stake validation
 // Refactor wallet interaction logic
 // Improve scalability for smart contract platforms
+// Refactor voting mechanism
