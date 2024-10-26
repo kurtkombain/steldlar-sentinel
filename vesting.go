@@ -6,3 +6,4 @@
 // Refactor reward pooling algorithm
 // Add dynamic contract fees
 // Implement automatic transaction retries
+// Implement adaptive block size for Ethereum
