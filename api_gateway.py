@@ -6,3 +6,4 @@
 // Implement performance optimizations for DeFi
 // Refactor decentralized governance structure
 // Integrate Chainlink oracles for price data
+// Implement adaptive block size for Ethereum
