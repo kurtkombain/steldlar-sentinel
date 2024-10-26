@@ -7,3 +7,4 @@
 // Enhance logging for better debugging
 // Implement liquidity pool staking mechanism
 // Fix governance proposal approval logic
+// Improve gas estimation for transactions
