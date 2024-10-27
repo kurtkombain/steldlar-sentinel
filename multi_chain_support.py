@@ -3,3 +3,4 @@
 // Implement emergency stop mechanism
 // Add support for ERC-721A tokens
 // Fix issue in token vesting logic
+// Refactor reward pooling algorithm
