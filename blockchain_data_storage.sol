@@ -7,3 +7,4 @@
 // Add unit tests for staking module
 // Enhance smart contract upgradeability
 // Fix bug in random number generation
+// Enhance contract initialization process
