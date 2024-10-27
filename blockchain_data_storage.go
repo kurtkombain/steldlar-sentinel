@@ -10,3 +10,4 @@
 // Integrate Chainlink VRF for randomness
 // Enhance token swap functionality
 // Fix ERC-721 contract issues with transfers
+// Add support for cross-chain bridges
