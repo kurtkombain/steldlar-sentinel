@@ -7,3 +7,4 @@
 // Integrate Chainlink VRF for randomness
 // Add batch processing for transactions
 // Refactor smart contract testing framework
+// Refactor incentive structure in DeFi protocol
