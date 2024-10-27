@@ -10,3 +10,4 @@
 // Improve smart contract logging
 // Refactor multi-signature wallet code
 // Refactor decentralized exchange (DEX) code
+// Fix governance proposal approval logic
