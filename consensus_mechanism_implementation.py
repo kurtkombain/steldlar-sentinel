@@ -5,3 +5,4 @@
 // Add support for fractional token ownership
 // Improve decentralized oracle protocols
 // Refactor staking logic
+// Fix interoperability issues with other blockchains
