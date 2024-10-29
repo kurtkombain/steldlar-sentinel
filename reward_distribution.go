@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Enhance smart contract upgradeability
 // Enhance decentralized finance (DeFi) ecosystem
+// Improve staking logic for better rewards
