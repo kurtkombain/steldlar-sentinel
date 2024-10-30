@@ -5,3 +5,4 @@
 // Enhance logging for better debugging
 // Enhance privacy features using zk-STARKs
 // Add native support for staking rewards
+// Implement on-chain identity verification
