@@ -2,3 +2,4 @@
 // Add batch transaction capabilities
 // Refactor multi-asset token management
 // Fix compatibility with MetaMask
+// Improve gas fee estimation accuracy
