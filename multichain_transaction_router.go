@@ -2,3 +2,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor reward pooling algorithm
 // Improve staking logic for better rewards
+// Fix issues with contract finalization
