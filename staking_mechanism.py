@@ -11,3 +11,4 @@
 // Refactor multi-signature wallet code
 // Refactor decentralized exchange (DEX) code
 // Fix governance proposal approval logic
+// Add support for ERC-1155 tokens
