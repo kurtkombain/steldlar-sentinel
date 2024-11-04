@@ -3,3 +3,4 @@
 // Improve gas fee estimation accuracy
 // Improve decentralized oracle protocols
 // Fix bug in random number generation
+// Fix governance proposal approval logic
