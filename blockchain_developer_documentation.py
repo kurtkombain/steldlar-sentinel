@@ -6,3 +6,4 @@
 // Add support for ERC-721A tokens
 // Add native support for staking mechanisms
 // Implement cross-chain bridge
+// Fix issues with gas optimization in smart contracts
