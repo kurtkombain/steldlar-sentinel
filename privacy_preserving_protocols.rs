@@ -6,3 +6,4 @@
 // Optimize proof-of-stake validation
 // Integrate automated market maker (AMM) logic
 // Integrate with decentralized prediction markets
+// Add slashing mechanism for malicious actors
