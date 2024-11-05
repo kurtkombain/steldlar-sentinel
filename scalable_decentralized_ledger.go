@@ -3,3 +3,4 @@
 // Fix issues with token transfer confirmations
 // Integrate with decentralized identity providers
 // Add support for decentralized marketplaces
+// Refactor reward pooling algorithm
