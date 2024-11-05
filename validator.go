@@ -7,3 +7,4 @@
 // Add unit tests for staking module
 // Refactor incentive structure in DeFi protocol
 // Implement liquidity pool staking mechanism
+// Refactor smart contract testing framework
