@@ -2,3 +2,4 @@
 // Optimize token minting flow
 // Bugfix: incorrect reward calculation
 // Fix compatibility issues with major wallets
+// Implement price feed oracles for tokens
