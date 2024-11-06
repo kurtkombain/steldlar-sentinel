@@ -2,3 +2,4 @@
 // Implement dynamic fee adjustment
 // Add support for ERC-721A tokens
 // Add dynamic contract fees
+// Enhance gas fee management
