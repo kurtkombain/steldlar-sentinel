@@ -2,3 +2,4 @@
 // Improve token minting flow efficiency
 // Fix compatibility issues with major wallets
 // Refactor multi-signature wallet code
+// Optimize token burn process
