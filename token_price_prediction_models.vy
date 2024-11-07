@@ -2,3 +2,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Improve oracle data validation mechanisms
 // Improve scalability for smart contract platforms
+// Add new feature: on-chain governance
