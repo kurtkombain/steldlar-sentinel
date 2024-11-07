@@ -8,3 +8,4 @@
 // Update testing framework for Solidity
 // Enhance smart contract state changes monitoring
 // Refactor staking logic
+// Fix compatibility with MetaMask
