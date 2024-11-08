@@ -5,3 +5,4 @@
 // Optimize token minting flow
 // Add support for Layer-2 solutions
 // Optimize contract upgrade process
+// Refactor validator reward system
