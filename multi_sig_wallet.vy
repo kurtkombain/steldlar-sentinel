@@ -3,3 +3,4 @@
 // Fix ERC-1155 contract interactions
 // Improve staking and yield farming logic
 // Refactor oracle interaction logic
+// Add support for decentralized insurance protocols
