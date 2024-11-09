@@ -4,3 +4,4 @@
 // Add support for decentralized lending platforms
 // Refactor contract state machine design
 // Improve contract state management
+// Refactor voting mechanism
