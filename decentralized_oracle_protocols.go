@@ -4,3 +4,4 @@
 // Optimize decentralized oracle performance
 // Add support for ERC-1155 tokens
 // Add support for cross-chain bridges
+// Fix bugs in NFT metadata handling
