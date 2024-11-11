@@ -8,3 +8,4 @@
 // Implement contract function batching
 // Fix errors in contract interaction with wallets
 // Enhance smart contract state changes monitoring
+// Fix overflow bug in token calculation
