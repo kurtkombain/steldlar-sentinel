@@ -5,3 +5,4 @@
 // Update testing framework for Solidity
 // Bugfix: incorrect reward calculation
 // Add unit tests for staking module
+// Add native support for staking rewards
