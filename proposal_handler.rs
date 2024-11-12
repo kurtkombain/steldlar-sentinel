@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix ERC-1155 contract interactions
 // Integrate staking rewards automation
+// Add slashing mechanism for malicious actors
