@@ -5,3 +5,4 @@
 // Refactor reward pooling algorithm
 // Integrate privacy-enhancing smart contracts
 // Refactor Ethereum gas price management
+// Add governance proposal expiration feature
