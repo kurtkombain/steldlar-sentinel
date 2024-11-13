@@ -6,3 +6,4 @@
 // Integrate with external blockchain networks
 // Optimize oracle data fetching mechanism
 // Optimize hashing algorithm
+// Refactor validator reward system
