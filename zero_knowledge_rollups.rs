@@ -3,3 +3,4 @@
 // Fix contract reentrancy issues
 // Optimize proof-of-stake validation
 // Fix issue in token vesting logic
+// Fix vulnerabilities in staking contracts
