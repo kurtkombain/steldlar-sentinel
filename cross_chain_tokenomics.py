@@ -4,3 +4,4 @@
 // Fix security vulnerability in random number generation
 // Update dependencies for Vyper contract
 // Fix vulnerability in decentralized finance protocols
+// Fix deserialization bug in Haskell code
