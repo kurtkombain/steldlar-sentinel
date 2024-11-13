@@ -6,3 +6,4 @@
 // Integrate chain-agnostic oracles
 // Add support for zk-SNARKs in smart contracts
 // Optimize gas usage in contract execution
+// Optimize oracle data fetching mechanism
