@@ -4,3 +4,4 @@
 // Integrate multi-chain liquidity pools
 // Implement reward distribution feature
 // Integrate decentralized oracles for data feeds
+// Implement cross-chain bridge
