@@ -11,3 +11,4 @@
 // Implement performance optimizations for DeFi
 // Improve contract execution speed
 // Improve contract state management
+// Add governance proposal expiration feature
