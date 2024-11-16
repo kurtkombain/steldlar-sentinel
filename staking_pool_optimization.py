@@ -2,3 +2,4 @@
 // Refactor incentive structure in DeFi protocol
 // Refactor storage layout for better efficiency
 // Refactor Ethereum gas price management
+// Refactor contract state machine design
