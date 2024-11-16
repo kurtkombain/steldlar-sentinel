@@ -5,3 +5,4 @@
 // Improve contract auditing tools
 // Improve decentralized oracle protocols
 // Integrate with external DeFi protocols
+// Add batch transaction capabilities
