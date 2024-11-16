@@ -2,3 +2,4 @@
 // Add support for NFT marketplaces
 // Optimize proof-of-stake validation
 // Optimize token minting flow
+// Refactor decentralized governance structure
