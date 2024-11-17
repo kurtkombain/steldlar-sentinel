@@ -8,3 +8,4 @@
 // Improve ERC-721 token metadata functionality
 // Integrate with decentralized storage systems
 // Refactor oracle interaction logic
+// Integrate Chainlink oracles
