@@ -4,3 +4,4 @@
 // Optimize storage for off-chain data
 // Add new RPC endpoint
 // Fix issues with token transfer confirmations
+// Improve contract execution speed
