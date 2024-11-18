@@ -13,3 +13,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Fix issues in token transfer logic
 // Enhance test coverage for Rust module
+// Optimize storage for off-chain data
