@@ -8,3 +8,4 @@
 // Enhance smart contract upgradeability
 // Fix bug in random number generation
 // Enhance contract initialization process
+// Enhance governance contract flexibility
