@@ -4,3 +4,4 @@
 // Refactor validator reward system
 // Optimize gas usage for contract deployment
 // Improve security for token minting contracts
+// Bugfix: incorrect reward calculation
