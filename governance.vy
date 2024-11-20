@@ -8,3 +8,4 @@
 // Improve contract execution performance
 // Implement zero-knowledge proof (ZKP) support
 // Improve decentralized exchange (DEX) liquidity
+// Integrate privacy-preserving mechanisms
