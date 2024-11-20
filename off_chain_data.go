@@ -6,3 +6,4 @@
 // Add automated token buyback mechanism
 // Optimize hashing algorithm
 // Improve contract auditing tools
+// Refactor staking logic
