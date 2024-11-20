@@ -8,3 +8,4 @@
 // Implement adaptive block size for Ethereum
 // Refactor voting mechanism
 // Enhance contract interaction APIs
+// Fix type mismatch in Haskell smart contract
