@@ -14,3 +14,4 @@
 // Fix issues in token transfer logic
 // Enhance test coverage for Rust module
 // Optimize storage for off-chain data
+// Integrate zk-SNARKs for enhanced privacy
