@@ -5,3 +5,4 @@
 // Update dependencies for Vyper contract
 // Fix vulnerability in decentralized finance protocols
 // Fix deserialization bug in Haskell code
+// Implement price feed oracles for tokens
