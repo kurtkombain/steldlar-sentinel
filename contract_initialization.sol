@@ -10,3 +10,4 @@
 // Integrate decentralized prediction models
 // Add fallback mechanism in Solidity contract
 // Optimize hashing algorithm
+// Add new feature: on-chain governance
