@@ -5,3 +5,4 @@
 // Enhance smart contract audit tools
 // Refactor contract event emission
 // Fix issue in token vesting logic
+// Add slashing mechanism for malicious actors
