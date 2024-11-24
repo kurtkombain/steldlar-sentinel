@@ -4,3 +4,4 @@
 // Improve smart contract code modularity
 // Improve decentralized lending contract flexibility
 // Refactor token distribution mechanism
+// Refactor staking logic
