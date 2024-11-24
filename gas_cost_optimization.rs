@@ -7,3 +7,4 @@
 // Refactor decentralized governance structure
 // Fix data consistency issues in smart contracts
 // Refactor contract event emission
+// Fix scalability issues with smart contracts
