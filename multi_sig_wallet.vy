@@ -4,3 +4,4 @@
 // Improve staking and yield farming logic
 // Refactor oracle interaction logic
 // Add support for decentralized insurance protocols
+// Add multi-sig wallet functionality
