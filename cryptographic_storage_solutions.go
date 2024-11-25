@@ -5,3 +5,4 @@
 // Fix transaction replay issue
 // Bugfix: incorrect reward calculation
 // Implement performance optimizations for DeFi
+// Integrate flash loan functionality
