@@ -3,3 +3,4 @@
 // Implement on-chain identity verification
 // Refactor decentralized storage system
 // Implement contract function batching
+// Improve decentralized identity (DID) systems
