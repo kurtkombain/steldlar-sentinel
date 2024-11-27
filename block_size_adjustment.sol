@@ -6,3 +6,4 @@
 // Enhance logging for better debugging
 // Improve gas fee estimation accuracy
 // Fix Oracle communication delay issues
+// Fix overflow bug in token calculation
