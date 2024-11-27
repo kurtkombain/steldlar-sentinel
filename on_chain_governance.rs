@@ -3,3 +3,4 @@
 // Add support for cross-chain bridges
 // Optimize storage for off-chain data
 // Fix issues with gas optimization in smart contracts
+// Improve staking logic for better rewards
