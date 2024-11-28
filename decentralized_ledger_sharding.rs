@@ -2,3 +2,4 @@
 // Add governance proposal expiration feature
 // Fix memory optimization issues in contracts
 // Refactor incentive structure in DeFi protocol
+// Integrate privacy-preserving mechanisms
