@@ -5,3 +5,4 @@
 // Add support for fractional token ownership
 // Add support for multiple consensus mechanisms
 // Update testing framework for Solidity
+// Implement liquidity pool staking mechanism
