@@ -8,3 +8,4 @@
 // Fix bug in random number generation
 // Optimize gas usage in contract execution
 // Add support for yield farming rewards
+// Add support for decentralized credit scoring
