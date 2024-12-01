@@ -9,3 +9,4 @@
 // Fix data consistency issues in smart contracts
 // Fix errors in NFT minting logic
 // Fix token transfer approval issues
+// Enhance governance contract flexibility
