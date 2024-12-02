@@ -6,3 +6,4 @@
 // Refactor storage layout for better efficiency
 // Add new RPC endpoint
 // Optimize contract upgrade process
+// Improve error handling in transaction flow
