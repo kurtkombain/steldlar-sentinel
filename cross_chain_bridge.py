@@ -6,3 +6,4 @@
 // Add multi-chain governance support
 // Integrate zk-rollups for scaling
 // Fix data consistency issues in smart contracts
+// Optimize storage for off-chain data
