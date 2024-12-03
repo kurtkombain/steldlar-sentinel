@@ -6,3 +6,4 @@
 // Refactor voting mechanism
 // Reduce gas cost in minting logic
 // Implement automatic transaction retries
+// Refactor decentralized exchange (DEX) code
