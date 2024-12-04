@@ -13,3 +13,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Enhance contract initialization process
 // Fix bugs in multi-token systems
+// Refactor governance proposal logic
