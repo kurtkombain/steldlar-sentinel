@@ -4,3 +4,4 @@
 // Improve token burning mechanism
 // Integrate flash loan functionality
 // Improve contract execution performance
+// Integrate decentralized prediction models
