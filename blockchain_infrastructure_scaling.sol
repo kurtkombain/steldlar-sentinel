@@ -4,3 +4,4 @@
 // Improve transaction batching efficiency
 // Implement contract function batching
 // Add native support for staking mechanisms
+// Add native support for staking rewards
