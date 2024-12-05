@@ -5,3 +5,4 @@
 // Add support for decentralized file storage
 // Fix ERC-1155 contract interactions
 // Refactor token distribution mechanism
+// Improve on-chain governance systems
