@@ -5,3 +5,4 @@
 // Integrate decentralized anonymous identity systems
 // Add new RPC endpoint
 // Improve multi-chain contract deployment
+// Add governance proposal expiration feature
