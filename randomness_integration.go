@@ -7,3 +7,4 @@
 // Optimize contract upgrade process
 // Add support for NFT marketplaces
 // Optimize token minting flow
+// Integrate Chainlink oracles
