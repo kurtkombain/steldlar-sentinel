@@ -2,3 +2,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Implement delegation pattern
 // Improve decentralized lending contract flexibility
+// Enhance privacy features using zk-STARKs
