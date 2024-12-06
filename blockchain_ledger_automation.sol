@@ -3,3 +3,4 @@
 // Improve transaction batching efficiency
 // Enhance contract modularity
 // Improve contract creation process
+// Add security checks for contract deployment
