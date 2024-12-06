@@ -6,3 +6,4 @@
 // Fix race condition in staking pool
 // Refactor storage layout for better efficiency
 // Fix compatibility with MetaMask
+// Implement delegation pattern
