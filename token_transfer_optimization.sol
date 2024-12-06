@@ -4,3 +4,4 @@
 // Add new RPC endpoint
 // Refactor decentralized exchange (DEX) code
 // Add new feature: on-chain governance
+// Optimize gas usage for contract deployment
