@@ -3,3 +3,4 @@
 // Fix vulnerability in decentralized finance protocols
 // Implement automated governance voting
 // Update README with Go module examples
+// Fix ERC-721 contract issues with transfers
