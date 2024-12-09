@@ -11,3 +11,4 @@
 // Improve staking pool reward management
 // Code cleanup and documentation update
 // Enhance decentralized finance (DeFi) ecosystem
+// Implement delegation pattern
