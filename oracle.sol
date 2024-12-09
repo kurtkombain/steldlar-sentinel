@@ -9,3 +9,4 @@
 // Enhance smart contract state changes monitoring
 // Refactor staking logic
 // Fix compatibility with MetaMask
+// Add support for decentralized file storage
