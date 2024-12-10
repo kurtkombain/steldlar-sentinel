@@ -8,3 +8,4 @@
 // Add fallback mechanism in Solidity contract
 // Fix ERC-1155 contract interactions
 // Improve contract verification speed
+// Improve token minting flow efficiency
