@@ -5,3 +5,4 @@
 // Add support for decentralized credit scoring
 // Add batch transaction capabilities
 // Fix issues in multi-token smart contracts
+// Fix oracle data delays in decentralized apps
