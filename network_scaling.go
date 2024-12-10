@@ -4,3 +4,4 @@
 // Enhance logging for better debugging
 // Add automated token buyback mechanism
 // Integrate with decentralized prediction markets
+// Add new RPC endpoint
