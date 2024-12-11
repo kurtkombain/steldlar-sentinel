@@ -6,3 +6,4 @@
 // Improve decentralized oracle protocols
 // Refactor staking logic
 // Fix interoperability issues with other blockchains
+// Implement contract function batching
