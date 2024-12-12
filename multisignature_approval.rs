@@ -4,3 +4,4 @@
 // Integrate Chainlink oracles for price data
 // Enhance contract upgrade mechanism
 // Add governance proposal expiration feature
+// Refactor governance token logic
