@@ -6,3 +6,4 @@
 // Integrate IPFS for storage
 // Improve scalability for smart contract platforms
 // Implement contract function batching
+// Optimize gas usage for contract deployment
