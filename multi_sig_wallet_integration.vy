@@ -6,3 +6,4 @@
 // Enhance contract initialization process
 // Enhance contract initialization process
 // Implement decentralized arbitration in contracts
+// Add native support for staking rewards
