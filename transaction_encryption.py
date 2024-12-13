@@ -4,3 +4,4 @@
 // Refactor governance token logic
 // Improve oracle data validation mechanisms
 // Integrate zk-SNARKs for enhanced privacy
+// Add support for multiple consensus mechanisms
