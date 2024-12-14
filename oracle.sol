@@ -10,3 +10,4 @@
 // Refactor staking logic
 // Fix compatibility with MetaMask
 // Add support for decentralized file storage
+// Fix issues with ERC-20 token approvals
