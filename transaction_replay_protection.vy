@@ -3,3 +3,4 @@
 // Improve contract modularity
 // Optimize contract upgrade process
 // Enhance governance contract flexibility
+// Fix governance proposal approval logic
