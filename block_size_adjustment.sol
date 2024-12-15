@@ -7,3 +7,4 @@
 // Improve gas fee estimation accuracy
 // Fix Oracle communication delay issues
 // Fix overflow bug in token calculation
+// Fix security vulnerability in random number generation
