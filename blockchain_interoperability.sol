@@ -6,3 +6,4 @@
 // Improve contract state management
 // Fix ERC-20 token interface bugs
 // Fix issues with cross-chain transaction finality
+// Update README with Go module examples
