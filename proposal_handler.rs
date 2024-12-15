@@ -5,3 +5,4 @@
 // Fix ERC-1155 contract interactions
 // Integrate staking rewards automation
 // Add slashing mechanism for malicious actors
+// Refactor cross-chain communication layer
