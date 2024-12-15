@@ -5,3 +5,4 @@
 // Add batch processing for transactions
 // Optimize cross-chain bridging mechanisms
 // Integrate zk-SNARKs for enhanced privacy
+// Refactor storage layout for better efficiency
