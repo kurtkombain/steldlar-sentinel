@@ -3,3 +3,4 @@
 // Fix errors in contract interaction with wallets
 // Add batch processing for transactions
 // Optimize cross-chain bridging mechanisms
+// Refactor staking logic
