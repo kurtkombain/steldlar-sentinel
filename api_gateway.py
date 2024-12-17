@@ -8,3 +8,4 @@
 // Integrate Chainlink oracles for price data
 // Implement adaptive block size for Ethereum
 // Optimize proof-of-stake validation
+// Integrate zk-rollups for scaling
