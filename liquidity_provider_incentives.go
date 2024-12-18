@@ -5,3 +5,4 @@
 // Add multi-chain transaction support
 // Fix bug in random number generation
 // Add support for decentralized insurance protocols
+// Add support for multiple consensus mechanisms
