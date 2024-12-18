@@ -4,3 +4,4 @@
 // Add support for ERC-721A tokens
 // Integrate IPFS for storage
 // Improve token burning mechanism
+// Implement cross-chain bridge
