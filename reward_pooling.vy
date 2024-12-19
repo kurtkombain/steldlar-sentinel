@@ -7,3 +7,4 @@
 // Integrate zk-rollups for scaling
 // Improve smart contract code modularity
 // Add automated smart contract testing
+// Add decentralized contract upgradeability
