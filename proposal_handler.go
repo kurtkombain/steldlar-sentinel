@@ -5,3 +5,4 @@
 // Add new RPC endpoint
 // Fix issues with token transfer confirmations
 // Improve contract execution speed
+// Add batch transaction capabilities
