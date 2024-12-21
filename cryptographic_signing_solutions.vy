@@ -3,3 +3,4 @@
 // Integrate with multi-token standards
 // Implement delegation pattern
 // Improve token burning mechanism
+// Add support for decentralized credit scoring
