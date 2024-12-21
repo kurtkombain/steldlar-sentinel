@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Improve staking pool reward management
 // Refactor decentralized exchange (DEX) code
+// Update smart contract tests
