@@ -13,3 +13,4 @@
 // Add support for cross-chain bridges
 // Update dependencies for Vyper contract
 // Implement dynamic fee adjustment
+// Fix overflow bug in token calculation
