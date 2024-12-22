@@ -3,3 +3,4 @@
 // Add unit tests for staking module
 // Enhance smart contract compatibility
 // Improve gas estimation for transactions
+// Add unit tests for staking module
