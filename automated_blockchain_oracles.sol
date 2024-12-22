@@ -2,3 +2,4 @@
 // Improve contract state management
 // Fix edge case in unstaking logic
 // Implement on-chain identity verification
+// Improve gas fee estimation accuracy
