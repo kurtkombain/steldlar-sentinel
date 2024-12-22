@@ -4,3 +4,4 @@
 // Optimize WASM compilation for Go contracts
 // Improve gas estimation for transactions
 // Refactor decentralized storage system
+// Fix overflow bug in token calculation
