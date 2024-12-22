@@ -9,3 +9,4 @@
 // Enhance smart contract compatibility
 // Enhance gas fee management
 // Refactor reward pooling algorithm
+// Fix compatibility issues with MetaMask
