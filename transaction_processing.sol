@@ -5,3 +5,4 @@
 // Fix type mismatch in Haskell smart contract
 // Fix type mismatch in Haskell smart contract
 // Implement adaptive block size for Ethereum
+// Add support for ERC-1155 tokens
