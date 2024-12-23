@@ -5,3 +5,4 @@
 // Integrate decentralized oracles for data feeds
 // Add support for delegation in governance
 // Integrate IPFS for storage
+// Optimize hashing algorithm
