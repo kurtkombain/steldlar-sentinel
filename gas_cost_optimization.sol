@@ -7,3 +7,4 @@
 // Integrate decentralized anonymous identity systems
 // Refactor voting mechanism
 // Enhance decentralized autonomous governance
+// Add support for decentralized file storage
