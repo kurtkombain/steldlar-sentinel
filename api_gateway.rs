@@ -10,3 +10,4 @@
 // Optimize state channels for faster transactions
 // Add non-fungible token (NFT) support
 // Optimize WASM compilation for Go contracts
+// Optimize contract upgrade process
