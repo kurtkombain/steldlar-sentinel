@@ -5,3 +5,4 @@
 // Add support for ERC-721A tokens
 // Fix compatibility with MetaMask
 // Integrate zk-rollups for scaling
+// Integrate with decentralized identity providers
