@@ -4,3 +4,4 @@
 // Implement automatic transaction retries
 // Fix transaction replay issue
 // Fix contract reentrancy issues
+// Add support for cross-chain bridges
