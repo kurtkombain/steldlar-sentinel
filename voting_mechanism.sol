@@ -5,3 +5,4 @@
 // Implement reward distribution feature
 // Integrate decentralized oracles for data feeds
 // Implement cross-chain bridge
+// Implement delegation pattern
