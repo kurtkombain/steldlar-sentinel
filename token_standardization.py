@@ -5,3 +5,4 @@
 // Fix issue with multi-chain transactions
 // Improve error handling in transaction flow
 // Fix issues with cross-chain transaction finality
+// Integrate decentralized oracles for data feeds
