@@ -5,3 +5,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Refactor contract event emission
 // Fix data consistency issues in smart contracts
+// Update testing framework for Solidity
