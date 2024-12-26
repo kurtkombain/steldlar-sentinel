@@ -6,3 +6,4 @@
 // Optimize decentralized oracle performance
 // Optimize gas cost in function execution
 // Add non-fungible token (NFT) support
+// Add support for ERC-1155 tokens
