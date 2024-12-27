@@ -9,3 +9,4 @@
 // Improve staking logic for better rewards
 // Improve gas fee estimation accuracy
 // Fix compatibility with MetaMask
+// Implement a new contract event system
