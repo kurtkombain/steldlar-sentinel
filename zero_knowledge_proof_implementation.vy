@@ -6,3 +6,4 @@
 // Integrate Chainlink oracles
 // Enhance smart contract upgradeability
 // Implement on-chain identity verification
+// Refactor staking logic
