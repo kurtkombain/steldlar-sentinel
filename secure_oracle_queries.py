@@ -4,3 +4,4 @@
 // Add support for NFT marketplaces
 // Refactor decentralized storage system
 // Fix ERC-1155 contract interactions
+// Fix governance proposal approval logic
