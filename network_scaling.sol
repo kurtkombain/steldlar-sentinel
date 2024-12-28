@@ -6,3 +6,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Refactor storage layout for better efficiency
 // Fix issues with token transfer confirmations
+// Fix issues with token transfer confirmations
