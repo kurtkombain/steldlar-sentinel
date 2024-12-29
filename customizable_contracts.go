@@ -2,3 +2,4 @@
 // Fix governance proposal approval logic
 // Improve contract interaction via APIs
 // Fix interoperability issues with other blockchains
+// Integrate Chainlink oracles
