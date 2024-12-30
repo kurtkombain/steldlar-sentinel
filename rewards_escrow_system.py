@@ -7,3 +7,4 @@
 // Refactor multi-signature wallet code
 // Enhance contract initialization process
 // Add slashing mechanism for malicious actors
+// Improve staking pool reward management
