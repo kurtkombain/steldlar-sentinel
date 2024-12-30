@@ -5,3 +5,4 @@
 // Fix bugs in multi-token systems
 // Refactor reward pooling algorithm
 // Enhance contract modularity
+// Implement delegation pattern
