@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Improve token burning mechanism
 // Implement cross-chain bridge
+// Fix errors in NFT minting logic
