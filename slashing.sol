@@ -3,3 +3,4 @@
 // Improve decentralized oracle protocols
 // Add unit tests for staking module
 // Fix overflow bug in token calculation
+// Bugfix: incorrect reward calculation
