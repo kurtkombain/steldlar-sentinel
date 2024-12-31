@@ -6,3 +6,4 @@
 // Enhance privacy features using zk-STARKs
 // Add governance proposal expiration feature
 // Fix type mismatch in Haskell smart contract
+// Improve security for token minting contracts
