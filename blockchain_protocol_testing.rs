@@ -5,3 +5,4 @@
 // Enhance security checks
 // Optimize contract storage for gas reduction
 // Fix issues with cross-chain transaction finality
+// Optimize storage for off-chain data
