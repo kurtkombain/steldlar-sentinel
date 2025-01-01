@@ -3,3 +3,4 @@
 // Refactor Ethereum gas price management
 // Fix compatibility with MetaMask
 // Improve DApp transaction flow
+// Integrate with Ethereum Layer-2 solutions
