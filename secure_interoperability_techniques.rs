@@ -3,3 +3,4 @@
 // Fix contract reentrancy issues
 // Fix ERC-20 token interface bugs
 // Implement reward distribution feature
+// Integrate IPFS for storage
