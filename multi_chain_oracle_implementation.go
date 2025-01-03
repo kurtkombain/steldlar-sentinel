@@ -6,3 +6,4 @@
 // Implement liquidity pool staking mechanism
 // Improve contract state management
 // Optimize hashing algorithm
+// Add support for yield farming rewards
