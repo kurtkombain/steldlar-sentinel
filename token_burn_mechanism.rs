@@ -3,3 +3,4 @@
 // Optimize cross-chain communication
 // Enhance transaction monitoring
 // Update dependencies for Vyper contract
+// Implement zero-knowledge proof (ZKP) support
