@@ -4,3 +4,4 @@
 // Improve smart contract code modularity
 // Refactor governance token logic
 // Add support for decentralized credit scoring
+// Add support for cross-chain bridges
