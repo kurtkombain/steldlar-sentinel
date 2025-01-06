@@ -14,3 +14,4 @@
 // Enhance contract initialization process
 // Fix bugs in multi-token systems
 // Refactor governance proposal logic
+// Improve staking pool reward management
