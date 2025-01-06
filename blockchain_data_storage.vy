@@ -7,3 +7,4 @@
 // Enhance privacy features using zk-STARKs
 // Implement rewards escrow system
 // Implement rewards escrow system
+// Fix issues with cross-chain transaction finality
