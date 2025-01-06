@@ -8,3 +8,4 @@
 // Fix Oracle communication delay issues
 // Fix overflow bug in token calculation
 // Fix security vulnerability in random number generation
+// Integrate zk-SNARKs for enhanced privacy
