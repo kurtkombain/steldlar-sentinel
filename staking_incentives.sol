@@ -6,3 +6,4 @@
 // Add support for ERC-721A tokens
 // Enhance contract interaction APIs
 // Refactor voting mechanism
+// Enhance contract modularity
