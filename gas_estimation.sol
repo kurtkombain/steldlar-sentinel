@@ -9,3 +9,4 @@
 // Refactor voting mechanism
 // Enhance contract interaction APIs
 // Fix type mismatch in Haskell smart contract
+// Refactor token distribution mechanism
