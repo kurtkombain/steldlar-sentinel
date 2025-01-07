@@ -5,3 +5,4 @@
 // Fix governance proposal approval logic
 // Bugfix: incorrect reward calculation
 // Fix Oracle communication delay issues
+// Integrate IPFS for storage
