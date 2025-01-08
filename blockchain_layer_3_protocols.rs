@@ -10,3 +10,4 @@
 // Improve contract state management
 // Improve decentralized oracle protocols
 // Optimize oracle data fetching mechanism
+// Refactor reward pooling algorithm
