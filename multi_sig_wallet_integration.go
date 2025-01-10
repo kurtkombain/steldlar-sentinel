@@ -4,3 +4,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Update testing framework for Solidity
 // Improve contract creation process
+// Fix governance proposal approval logic
