@@ -5,3 +5,4 @@
 // Add support for multiple consensus mechanisms
 // Add fallback mechanism in Solidity contract
 // Add support for fractional token ownership
+// Improve token burning mechanism
