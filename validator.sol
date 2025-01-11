@@ -9,3 +9,4 @@
 // Enhance privacy features using zk-STARKs
 // Improve decentralized lending contract flexibility
 // Optimize hashing algorithm
+// Fix bugs in decentralized exchange routing
