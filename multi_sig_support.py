@@ -7,3 +7,4 @@
 // Implement a new contract event system
 // Optimize decentralized application performance
 // Enhance contract modularity
+// Fix compatibility with MetaMask
