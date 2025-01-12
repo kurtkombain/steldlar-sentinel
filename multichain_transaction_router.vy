@@ -5,3 +5,4 @@
 // Enhance transaction monitoring
 // Improve contract state management
 // Fix issue with multi-chain transactions
+// Integrate Chainlink VRF for randomness
