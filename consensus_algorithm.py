@@ -12,3 +12,4 @@
 // Integrate zk-rollups for scaling
 // Enhance smart contract compatibility
 // Optimize decentralized oracle performance
+// Add security checks for contract deployment
