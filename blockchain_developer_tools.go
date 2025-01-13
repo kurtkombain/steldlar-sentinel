@@ -4,3 +4,4 @@
 // Fix issue with multi-chain transactions
 // Integrate zk-rollups for scaling
 // Add support for ERC-721A tokens
+// Implement a new contract event system
