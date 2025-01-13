@@ -10,3 +10,4 @@
 // Fix bugs in multi-token systems
 // Integrate Chainlink VRF for randomness
 // Refactor contract event emission
+// Fix oracle data delays in decentralized apps
