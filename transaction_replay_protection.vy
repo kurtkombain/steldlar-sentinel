@@ -5,3 +5,4 @@
 // Enhance governance contract flexibility
 // Fix governance proposal approval logic
 // Improve staking logic for better rewards
+// Integrate decentralized prediction models
