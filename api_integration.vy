@@ -4,3 +4,4 @@
 // Add support for delegation in governance
 // Integrate with decentralized identity providers
 // Optimize token burn process
+// Fix issue with multi-chain transactions
