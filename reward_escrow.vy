@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Improve DApp transaction flow
 // Add support for ERC-721A tokens
+// Enhance decentralized finance (DeFi) ecosystem
