@@ -3,3 +3,4 @@
 // Add support for decentralized lending platforms
 // Add new feature: on-chain governance
 // Improve staking and yield farming logic
+// Integrate IPFS for storage
