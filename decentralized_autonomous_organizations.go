@@ -6,3 +6,4 @@
 // Implement reward distribution feature
 // Add support for ERC-721A tokens
 // Integrate multi-chain liquidity pools
+// Add batch transaction capabilities
