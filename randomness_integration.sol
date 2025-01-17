@@ -11,3 +11,4 @@
 // Fix transaction replay issue
 // Enhance contract initialization process
 // Improve token minting flow efficiency
+// Optimize storage for off-chain data
