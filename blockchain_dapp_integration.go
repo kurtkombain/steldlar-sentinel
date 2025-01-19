@@ -3,3 +3,4 @@
 // Fix ERC-20 token interface bugs
 // Fix vulnerabilities in staking contracts
 // Add support for Layer-2 solutions
+// Improve error handling in transaction flow
