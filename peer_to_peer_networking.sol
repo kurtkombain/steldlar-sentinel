@@ -4,3 +4,4 @@
 // Add support for multi-signature wallet contracts
 // Improve multi-chain contract deployment
 // Refactor multi-signature wallet code
+// Add native support for staking rewards
