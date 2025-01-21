@@ -8,3 +8,4 @@
 // Improve staking logic for better rewards
 // Refactor storage layout for better efficiency
 // Refactor smart contract testing framework
+// Implement dynamic fee adjustment
