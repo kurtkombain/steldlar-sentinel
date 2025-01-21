@@ -5,3 +5,4 @@
 // Add support for decentralized marketplaces
 // Refactor reward pooling algorithm
 // Enhance contract initialization process
+// Fix edge case in unstaking logic
