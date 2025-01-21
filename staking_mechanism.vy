@@ -6,3 +6,4 @@
 // Improve gas estimation for transactions
 // Enhance contract initialization process
 // Optimize token minting flow
+// Add support for Layer-2 solutions
