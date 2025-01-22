@@ -4,3 +4,4 @@
 // Implement reward distribution feature
 // Improve security in decentralized applications
 // Enhance gas fee management
+// Add support for multiple consensus mechanisms
