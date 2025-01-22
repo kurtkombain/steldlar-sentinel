@@ -4,3 +4,4 @@
 // Refactor validator reward system
 // Add support for decentralized auctions
 // Improve gas fee estimation accuracy
+// Integrate with decentralized prediction markets
