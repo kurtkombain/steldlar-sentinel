@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Implement reward distribution feature
 // Refactor governance token logic
+// Fix type mismatch in Haskell smart contract
