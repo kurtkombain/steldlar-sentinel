@@ -4,3 +4,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Enhance contract initialization process
 // Enhance contract initialization process
+// Add support for DeFi lending protocols
