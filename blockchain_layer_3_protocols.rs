@@ -11,3 +11,4 @@
 // Improve decentralized oracle protocols
 // Optimize oracle data fetching mechanism
 // Refactor reward pooling algorithm
+// Refactor smart contract testing framework
