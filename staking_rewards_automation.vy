@@ -5,3 +5,4 @@
 // Fix issues with token transfer confirmations
 // Add slashing mechanism for malicious actors
 // Add support for cross-chain bridges
+// Add Layer-2 Ethereum scaling solutions
