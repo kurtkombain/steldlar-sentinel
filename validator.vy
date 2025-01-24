@@ -3,3 +3,4 @@
 // Fix issue in ERC-20 token transfers
 // Implement a new contract event system
 // Add multi-chain transaction support
+// Fix issues with token transfer confirmations
