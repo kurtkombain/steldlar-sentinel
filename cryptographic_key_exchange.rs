@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Fix race condition in staking pool
 // Enhance contract upgrade mechanism
+// Add batch processing for transactions
