@@ -3,3 +3,4 @@
 // Optimize contract upgrade process
 // Improve cross-chain asset management
 // Fix issue with multi-chain transactions
+// Refactor validator reward system
