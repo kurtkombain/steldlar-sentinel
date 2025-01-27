@@ -7,3 +7,4 @@
 // Add support for DeFi lending protocols
 // Fix compatibility issues with major wallets
 // Refactor staking logic
+// Add security checks for contract deployment
