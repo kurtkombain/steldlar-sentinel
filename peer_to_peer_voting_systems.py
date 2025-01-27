@@ -4,3 +4,4 @@
 // Add support for multiple consensus mechanisms
 // Fix issues with cross-chain transaction finality
 // Enhance contract upgrade mechanism
+// Refactor staking logic
