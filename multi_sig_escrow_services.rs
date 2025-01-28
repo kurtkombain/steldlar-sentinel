@@ -5,3 +5,4 @@
 // Implement emergency stop mechanism
 // Refactor staking logic
 // Enhance developer documentation
+// Fix compatibility issues with major wallets
