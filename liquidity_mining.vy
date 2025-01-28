@@ -5,3 +5,4 @@
 // Improve token minting flow efficiency
 // Fix governance proposal approval logic
 // Fix issues with contract finalization
+// Fix race condition in staking pool
