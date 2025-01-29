@@ -5,3 +5,4 @@
 // Enhance smart contract upgradeability
 // Refactor decentralized storage system
 // Fix memory leak in Rust smart contract
+// Fix compatibility issues with major wallets
