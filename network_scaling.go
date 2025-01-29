@@ -6,3 +6,4 @@
 // Integrate with decentralized prediction markets
 // Add new RPC endpoint
 // Refactor governance token logic
+// Improve token minting flow efficiency
