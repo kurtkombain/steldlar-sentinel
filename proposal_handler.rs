@@ -6,3 +6,4 @@
 // Integrate staking rewards automation
 // Add slashing mechanism for malicious actors
 // Refactor cross-chain communication layer
+// Add support for cross-chain bridges
