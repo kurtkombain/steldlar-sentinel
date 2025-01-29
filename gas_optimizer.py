@@ -8,3 +8,4 @@
 // Enhance gas fee management
 // Fix transaction replay issue
 // Improve staking and yield farming logic
+// Add automated smart contract testing
