@@ -4,3 +4,4 @@
 // Refactor cross-chain communication layer
 // Fix issues with ERC-20 token approvals
 // Enhance security checks
+// Integrate flash loan functionality
