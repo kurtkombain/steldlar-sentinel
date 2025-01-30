@@ -8,3 +8,4 @@
 // Refactor wallet interaction logic
 // Improve on-chain governance systems
 // Add support for decentralized credit scoring
+// Fix issue in token vesting logic
