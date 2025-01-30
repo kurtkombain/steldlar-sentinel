@@ -2,3 +2,4 @@
 // Implement on-chain identity verification
 // Improve ERC-721 token metadata functionality
 // Enhance token swap functionality
+// Integrate zk-rollups for scaling
