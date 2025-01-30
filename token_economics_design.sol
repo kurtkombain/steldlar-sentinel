@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Enhance contract event handling
 // Enhance governance contract flexibility
+// Fix errors in contract interaction with wallets
