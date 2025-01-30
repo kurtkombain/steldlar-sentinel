@@ -5,3 +5,4 @@
 // Add unit tests for staking module
 // Improve token burning mechanism
 // Add support for multiple consensus mechanisms
+// Improve token burning mechanism
