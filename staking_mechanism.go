@@ -6,3 +6,4 @@
 // Add fallback mechanism in Solidity contract
 // Add support for fractional token ownership
 // Improve token burning mechanism
+// Refactor smart contract testing framework
