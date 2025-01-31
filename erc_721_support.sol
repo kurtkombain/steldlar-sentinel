@@ -7,3 +7,4 @@
 // Implement cross-chain bridge
 // Fix errors in NFT minting logic
 // Add security checks for contract deployment
+// Refactor reward pooling algorithm
