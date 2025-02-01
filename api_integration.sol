@@ -6,3 +6,4 @@
 // Integrate privacy-enhancing smart contracts
 // Refactor Ethereum gas price management
 // Add governance proposal expiration feature
+// Improve gas estimation for transactions
