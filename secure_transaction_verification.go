@@ -5,3 +5,4 @@
 // Fix compatibility issues with major wallets
 // Implement time-locked contract execution
 // Improve staking and yield farming logic
+// Add support for fractional token ownership
