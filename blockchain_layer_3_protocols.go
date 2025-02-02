@@ -6,3 +6,4 @@
 // Integrate privacy-enhancing smart contracts
 // Fix vulnerability in decentralized finance protocols
 // Enhance transaction monitoring
+// Integrate Chainlink oracles
