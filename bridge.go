@@ -9,3 +9,4 @@
 // Reduce gas cost in minting logic
 // Improve contract creation process
 // Improve contract auditing tools
+// Fix issues with token transfer confirmations
