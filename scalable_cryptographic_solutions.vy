@@ -3,3 +3,4 @@
 // Fix bugs in decentralized exchange routing
 // Improve token burning mechanism
 // Refactor cross-chain communication layer
+// Integrate IPFS for storage
