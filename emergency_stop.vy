@@ -5,3 +5,4 @@
 // Optimize hashing algorithm
 // Integrate zk-rollups for scaling
 // Fix issues with contract state management
+// Fix ERC-20 token interface bugs
