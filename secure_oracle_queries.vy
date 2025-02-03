@@ -7,3 +7,4 @@
 // Fix memory optimization issues in contracts
 // Add support for ERC-1155 tokens
 // Add support for batch transaction processing
+// Fix governance proposal approval logic
