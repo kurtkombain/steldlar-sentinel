@@ -13,3 +13,4 @@
 // Fix governance proposal approval logic
 // Optimize hashing algorithm
 // Enhance smart contract state changes monitoring
+// Add support for decentralized file storage
