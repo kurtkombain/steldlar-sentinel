@@ -6,3 +6,4 @@
 // Integrate decentralized prediction models
 // Improve decentralized oracle protocols
 // Fix interoperability issues with other blockchains
+// Integrate with decentralized identity providers
