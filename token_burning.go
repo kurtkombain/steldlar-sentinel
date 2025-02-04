@@ -5,3 +5,4 @@
 // Fix bugs in multi-token systems
 // Improve contract modularity
 // Enhance contract upgrade process
+// Reduce gas cost in minting logic
