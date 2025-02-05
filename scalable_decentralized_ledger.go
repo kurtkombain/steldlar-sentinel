@@ -6,3 +6,4 @@
 // Refactor reward pooling algorithm
 // Enhance contract initialization process
 // Fix edge case in unstaking logic
+// Add automated smart contract testing
