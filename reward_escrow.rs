@@ -5,3 +5,4 @@
 // Implement adaptive block size for Ethereum
 // Add support for multiple consensus mechanisms
 // Implement zero-knowledge proof (ZKP) support
+// Fix edge case in unstaking logic
