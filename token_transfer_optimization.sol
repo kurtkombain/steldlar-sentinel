@@ -5,3 +5,4 @@
 // Refactor decentralized exchange (DEX) code
 // Add new feature: on-chain governance
 // Optimize gas usage for contract deployment
+// Enhance contract initialization process
