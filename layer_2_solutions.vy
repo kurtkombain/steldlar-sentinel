@@ -3,3 +3,4 @@
 // Enhance gas fee management
 // Implement decentralized arbitration in contracts
 // Fix transaction replay issue
+// Add support for multi-signature wallet contracts
