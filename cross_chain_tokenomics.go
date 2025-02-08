@@ -6,3 +6,4 @@
 // Enhance contract upgrade process
 // Fix ERC-721 contract issues with transfers
 // Optimize Oracle-based data fetching
+// Fix issues with cross-chain transaction finality
