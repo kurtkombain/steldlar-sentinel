@@ -5,3 +5,4 @@
 // Improve API rate limiting
 // Implement decentralized arbitration in contracts
 // Improve token minting flow efficiency
+// Improve staking pool reward management
