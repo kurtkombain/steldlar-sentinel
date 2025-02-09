@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Optimize decentralized oracle performance
 // Enhance contract initialization process
+// Add new RPC endpoint
