@@ -4,3 +4,4 @@
 // Fix data consistency issues in smart contracts
 // Add unit tests for staking module
 // Improve token burning mechanism
+// Integrate IPFS for storage
