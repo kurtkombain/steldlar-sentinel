@@ -10,3 +10,4 @@
 // Add support for ERC-1155 tokens
 // Add support for NFT marketplaces
 // Implement delegation pattern
+// Enhance contract upgrade process
