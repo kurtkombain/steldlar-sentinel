@@ -4,3 +4,4 @@
 // Implement time-locked contract execution
 // Improve token burning mechanism
 // Enhance contract initialization process
+// Fix vulnerabilities in staking contracts
