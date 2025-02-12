@@ -8,3 +8,4 @@
 // Optimize storage for off-chain data
 // Refactor staking logic
 // Implement rewards escrow system
+// Integrate with decentralized storage systems
