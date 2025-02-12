@@ -8,3 +8,4 @@
 // Add multi-sig wallet functionality
 // Fix Oracle communication delay issues
 // Add native support for staking rewards
+// Add security checks for contract deployment
