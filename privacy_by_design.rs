@@ -4,3 +4,4 @@
 // Fix compatibility issues with MetaMask
 // Integrate staking rewards automation
 // Optimize storage for off-chain data
+// Refactor smart contract testing framework
